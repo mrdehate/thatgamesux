@@ -3,7 +3,7 @@ layout: post
 title: "Mass Effect 2: The Galaxy Map Offers Information When You Need It"
 date: 2012-07-02 00:00:00 -0000
 ---
-I’m a latecomer to the Mass Effect party, so I had the chance to play Mass Effect 2 immediately after playing the original.  This gave me a good look at how things changed between the two games.  Other than getting rid of the Mako (a frustrating to control tank-like vehicle), my favorite upgrade in ME2 was the galaxy map.
+I’m a latecomer to the Mass Effect party, so I had the chance to play Mass Effect 2 immediately after playing the original.  This gave me a good look at how things changed between the two games.  Other than getting rid of the Mako (a frustrating to control tank-like vehicle), my favorite upgrade in ME2 was the galaxy map. 
 
 The galaxy map in Mass Effect is used, as you might imagine, to pilot your ship around the galaxy.  In the original game, while the main story locations were indicated on the map, there were lots of side missions and other smaller quests that weren’t listed.  So if you wanted to go take care of a side mission, you would have to read about where you needed to go in another menu, and come back to the galaxy map and try and locate the place.
 
