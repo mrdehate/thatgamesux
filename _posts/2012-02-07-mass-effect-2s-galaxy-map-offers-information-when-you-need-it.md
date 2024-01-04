@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mass Effect 2: The Galaxy Map Offers Information When You Need It"
+title: "Mass Effect 2: The Galaxy Map Offers Information When You Need Ittt"
 date: 2012-07-02 00:00:00 -0000
 ---
 I’m a latecomer to the Mass Effect party, so I had the chance to play Mass Effect 2 immediately after playing the original.  This gave me a good look at how things changed between the two games.  Other than getting rid of the Mako (a frustrating to control tank-like vehicle), my favorite upgrade in ME2 was the galaxy map. 
