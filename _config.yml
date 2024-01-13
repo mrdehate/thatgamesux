@@ -5,4 +5,4 @@ plugins:
 
 title: "That Game's UX"
 description: Because gamers are users too
-#permalink: /:year/:month/:day/:title
+permalink: /:title
