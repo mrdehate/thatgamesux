@@ -1,5 +1,6 @@
 ---
 title: "NHL 12: Finding the Right Trade Partner is Hard"
+permalink: "testy-test"
 date: "2012-02-15"
 categories: 
   - "console"
