@@ -7,7 +7,6 @@ categories:
   - "sports"
 tags: 
   - "be-a-gm"
-  - "detroit-red-wings"
   - "game-experience"
   - "nhl-12"
   - "sports-games"
