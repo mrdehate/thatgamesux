@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme
 include:
   - _posts/*
-  
+  - _posts/**/*
 title: "That Game's UX"
 description: Because gamers are users too
 permalink: /:title
