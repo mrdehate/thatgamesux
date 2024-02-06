@@ -18,7 +18,8 @@ tags:
   - "xbox-360"
 ---
 
-\[caption id="attachment\_13" align="alignnone" width="584" caption="Mass Effect 2's Galaxy Map"\][![Mass Effect 2's Galaxy Map](images/galaxy-map-1-1024x580.jpg "Mass Effect 2 - galaxy map")](http://www.thatgamesux.com/wp-content/uploads/2012/01/galaxy-map-1.jpg)\[/caption\]
+[![Mass Effect 2's Galaxy Map](images/galaxy-map-1-1024x580.jpg "Mass Effect 2's galaxy map")](images/galaxy-map-1.jpg)
+> Galaxy Map in Mass Effect 2
 
 I'm a latecomer to the Mass Effect party, so I had the chance to play Mass Effect 2 immediately after playing the original.  This gave me a good look at how things changed between the two games.  Other than getting rid of the Mako (a frustrating to control tank-like vehicle), my favorite upgrade in ME2 was the galaxy map.
 
