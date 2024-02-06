@@ -14,6 +14,7 @@ tags:
 ---
 
 ![wwe supercard logo](images/wwe-supercard-logo-300x163.png)
+
 When I heard there was a digital CCG coming out in the WWE universe...I was confused more than anything. After hearing that WWE SuperCard ([iTunes](https://itunes.apple.com/us/app/wwe-supercard/id775402833?mt=8), [Play](https://play.google.com/store/apps/details?id=com.catdaddy.cat22&hl=en)) [was downloaded 1.5 million times](http://www.joystiq.com/2014/08/25/wwe-supercard-superkicks-1-5-million-downloads/) in the first week and a half of being available, I knew I had to give it a shot (for science!). After two days and some sore thumbs, I can see why it's so popular.
 
 But before a CCG can start hooking players into that sweet, sweet drip of new cards, it has to get players in the game first. Lets take a look at what all of those 1.5 million players had to get through before their first match in WWE SuperCard!
