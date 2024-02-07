@@ -20,7 +20,7 @@ tags:
   - "xbox-360"
 ---
 
-\[caption id="attachment\_36" align="alignleft" width="300" caption="Earning a new world record in my first Kinect Sports track & field event..."\][![A New World Record!](images/new_world_record-300x168.png "new_world_record")](http://www.thatgamesux.com/wp-content/uploads/2012/02/new_world_record.png)\[/caption\]
+[![A New World Record!](images/new_world_record-300x168.png "new_world_record")](http://www.thatgamesux.com/wp-content/uploads/2012/02/new_world_record.png)
 
 Kinect Sports: Season One is an entertaining, if not terribly deep, game.  Among the things that I appreciate about the game is the inclusion of "World Records" in all of the track and field events.  There's five track and field events, and pretty much the first time you successfully complete one of them, you're going to break the world record.  You get a little bit of extra applause from the crowd, a dramatic replay set to the epic [Chariots of Fire theme](http://itunes.apple.com/us/album/chariots-of-fire-original/id161063936?i=161064009), and a short chance to bask in the glory of your easily-earned success.
 
