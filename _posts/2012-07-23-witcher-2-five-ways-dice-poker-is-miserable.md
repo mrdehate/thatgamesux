@@ -36,7 +36,7 @@ The second problem is one of realism. I touched on irritating realism in my arti
 
 On the XBox 360, the left stick controls where you start the dice from. Then you flick the right stick to roll the dice. Because clearly, this is a super-important control to get right or else gamers just won't have the full "dice-rolling" experience? As a result here's an (admittedly exaggerated) example of what could happen to you:
 
-<iframe src="http://www.youtube.com/embed/MLP8-MmxvS8" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MLP8-MmxvS8?si=zuhjGsYiVaam2rni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Right, so obviously nobody is going to purposefully drop their dice off the side of the board like that, but there's also no benefit in letting the player move their dice around before they roll them. Then why is this even a thing that the player can do?
 
@@ -48,7 +48,7 @@ Thankfully, the XBox 360 version starts the player out in the middle of the tabl
 
 Third reason why the dice poker is broken: why is it so hard to read the dice? The Witcher 1 had a similar dice game, and it featured standard-looking six sided dice with little dots (pips) on them. In The Witcher 2, the designs are a lot more abstract, and as a result, way harder to read.
 
-[![](images/dice-1024x580.png "Dice in The Witcher 2")](http://www.thatgamesux.com/wp-content/uploads/2012/07/dice.png)
+![](images/dice.png "Dice in The Witcher 2")
 
 It's not un-decipherable, but when playing on a TV that's across the room, it's unnecessarily difficult, and requires a lot more thinking than it should just to figure out what was rolled. And thus, **usability tip #3:** **sure, make it look festive, but not at the expense of easily being able to read and understand what's going on.**
 
@@ -62,7 +62,7 @@ I don't have any hard evidence on this one; it just doesn't seem in line with ho
 
 And finally, the last aspect of dice poker on The Witcher 2 that is really irritating. After the two rounds are over, the player is greeted with a simple "you win" or "you lose", along with the amount of money that was exchanged. What the game doesn't indicate is _why._
 
-[![](images/you-win-1024x580.png "you win")](http://www.thatgamesux.com/wp-content/uploads/2012/07/you-win.png)
+![](images/you-win.png "you win")
 
 The player is left on this screen to try and decipher exactly why they won or lost. As I mentioned, I didn't see the in-game tutorial, so I'm not sure if it goes over what the order of poker dice hands are or not. Even if it does, I'm sure most gamers aren't going to have memorized the order - it may be similar to traditional poker, but with dice, it's not 100% transferable knowledge. That is, assuming you can actually read the dice that are on the screen.
 
