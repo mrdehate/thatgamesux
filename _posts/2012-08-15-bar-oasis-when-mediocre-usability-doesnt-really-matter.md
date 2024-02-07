@@ -18,7 +18,9 @@ tags:
   - "ux"
 ---
 
-[![](images/title_cropped-300x297.jpg "title_cropped")](http://www.thatgamesux.com/wp-content/uploads/2012/08/title_cropped.jpg)There are plenty of iOS apps that contain drink recipes, but there are very few games that have you actually making drinks on your phone. [Bar Oasis](http://itunes.apple.com/us/app/bar-oasis-1.5/id521430104?mt=8) is called a "bartender simulation" by [Touch Arcade](http://toucharcade.com/2012/08/01/bar-oasis-2-review-hendricks-gin-and-tonic-with-cucumber-please/), which seems pretty accurate. It's a very story-driven game that I guess would have to live in the simulation genre if I had to put it somewhere. You're put in the shoes of a bartender, tending to your customers while listening to their problems, and of course, making their drinks.
+![](images/title_cropped.jpg "title_cropped")
+
+There are plenty of iOS apps that contain drink recipes, but there are very few games that have you actually making drinks on your phone. [Bar Oasis](http://itunes.apple.com/us/app/bar-oasis-1.5/id521430104?mt=8) is called a "bartender simulation" by [Touch Arcade](http://toucharcade.com/2012/08/01/bar-oasis-2-review-hendricks-gin-and-tonic-with-cucumber-please/), which seems pretty accurate. It's a very story-driven game that I guess would have to live in the simulation genre if I had to put it somewhere. You're put in the shoes of a bartender, tending to your customers while listening to their problems, and of course, making their drinks.
 
 (brief aside: If you agreed with [my article about Ghost Trick having a way-too-long tutorial](http://www.thatgamesux.com/mobile-games-tutorials-should-fit-mobile-attention-spans/ "Mobile Games: Tutorials Should Fit Mobile Attention Spans"), this game falls into the same camp - so far I've experienced way more dialogue than actual gameplay)
 
@@ -26,7 +28,9 @@ In real life it's definitely a skill that bartenders have to develop for making 
 
 ## The good: navigating around the bar
 
-[![](images/the_bar-200x300.jpg "the_bar")](http://www.thatgamesux.com/wp-content/uploads/2012/08/the_bar.jpg)First the good news - navigating around the bar is pretty cool. There are a series of shelves that contain all kinds of bottles of liquor and mixers, so to build a drink, the player first has to collect all the bottles. Most of the bottles have recognizable labels, which is good, though there are a few generic looking bottles that are difficult to identify what they are (that or I need to spend more time in bars!).
+[![](images/the_bar-200x300.jpg "the_bar")](images/the_bar.jpg)
+
+First the good news - navigating around the bar is pretty cool. There are a series of shelves that contain all kinds of bottles of liquor and mixers, so to build a drink, the player first has to collect all the bottles. Most of the bottles have recognizable labels, which is good, though there are a few generic looking bottles that are difficult to identify what they are (that or I need to spend more time in bars!).
 
 While swiping to the left or right will show to various shelves of bottles, swiping down will turn the player around to be facing the customers. And from there, swiping left and right shows the various customers sitting at the bar. This mechanic makes a lot of sense, and really works well for the game - it feels very natural.
 
@@ -40,11 +44,11 @@ A rather important part of a game about making drinks is actually making the dri
 
 Pouring the drink involves actually tipping the phone on its side, and here's where things get weird. Check out this screenshot:
 
-[![](images/pouring_start_2-200x300.jpg "pouring_start_2")](http://www.thatgamesux.com/wp-content/uploads/2012/08/pouring_start_2.jpg)
+[![](images/pouring_start_2-200x300.jpg "pouring_start_2")](images/pouring_start_2.jpg)
 
 The glass is clearly visible before any pouring happens. But as soon as the player turns the phone to the side to start pouring, this is what they get:
 
-[![](images/pouring_amateur_done-e1344995548114-300x200.jpg "pouring_amateur_done")](http://www.thatgamesux.com/wp-content/uploads/2012/08/pouring_amateur_done.jpg)
+[![](images/pouring_amateur_done-e1344995548114-300x200.jpg "pouring_amateur_done")](images/pouring_amateur_done.jpg)
 
 The glass is no longer onscreen. How then does one know when the drink is ready? The less precise method is the giant "OK" that flashes on the screen, or you can read the tiny numbers in the upper-left of the screen (3.84/3.00 in this screenshot above) to see how much you've poured.
 
