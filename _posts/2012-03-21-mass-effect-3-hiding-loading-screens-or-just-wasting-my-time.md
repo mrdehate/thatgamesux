@@ -18,7 +18,7 @@ tags:
 
 I've been working my way through Mass Effect 3 on the XBox 360 the last couple of weeks, and it's interesting to see how Bioware has continued to evolve the interface of these games over the course of the series. Something I've noticed in the game is either a clever way to reduce loading times or an irritating obstacle to moving around on the Normandy. When going from the tech labs to the galaxy map, you enter a tiny room with two other members of the crew, and you get scanned for about 10 seconds before being allowed to proceed. Check out this video example:
 
-<iframe src="http://www.youtube.com/embed/bXPFSMQHAg0" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXPFSMQHAg0?si=xBO5DrM_CAyxQmao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Occasionally, the crew will chatter about recent events in the galaxy - that's the only thing that's even remotely interesting about this 10 seconds.  Moving around the ship is already a bit of a pain because you have to take the elevator between all five decks on the ship, which causes a legit, I-can't-do-anything-until-its-done loading screen.  So this "scanning" doesn't help things any - in fact, I find it quite irritating in that it forces me to pause for no apparent benefit.
 
