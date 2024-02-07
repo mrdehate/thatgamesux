@@ -39,7 +39,7 @@ Here's the way that I play Borderlands 2 - whenever I see a side mission is avai
 
 The [very first article on That Game's UX](http://www.thatgamesux.com/mass-effect-2s-galaxy-map-offers-information-when-you-need-it/ "Mass Effect 2: The Galaxy Map Offers Information When You Need It") talked about a similar feature introduced in Mass Effect 2 - when [browsing Mass Effect 2's galaxy map](http://www.thatgamesux.com/mass-effect-2s-galaxy-map-offers-information-when-you-need-it/ "Mass Effect 2: The Galaxy Map Offers Information When You Need It"), it shows the player what missions are available at each location in the universe. Because of the slow transitions between menus, it was even more irritating in Mass Effect 1, so that was a welcome addition for sure.
 
-![Mass Effect 2's Galaxy Map](images/galaxy-map-1.jpg "Mass Effect 2 - galaxy map")]
+![Mass Effect 2's Galaxy Map](images/galaxy-map-1.jpg "Mass Effect 2 - galaxy map")
 > Mass Effect 2's Galaxy Map
 
 ## One Step Further
