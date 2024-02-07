@@ -19,7 +19,9 @@ tags:
   - "xbox-360"
 ---
 
-[![The Elder Scrolls V: Skyrim logo](images/skyrim-logo.jpeg "skyrim logo")](http://www.thatgamesux.com/wp-content/uploads/2012/12/skyrim-logo.jpeg)I'm finally getting around to playing [The Elder Scrolls V: Skyrim](http://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim). I know, where have I been, right? Nearly all of my friends across the gaming spectrum have taken their vacation into [Tamriel](http://elderscrolls.wikia.com/wiki/Tamriel) and are back again, so I'm a little late to the party. But for a game that's won so many Game of the Year honors, it's better late than never.
+![The Elder Scrolls V: Skyrim logo](images/skyrim-logo.jpeg "skyrim logo")
+
+I'm finally getting around to playing [The Elder Scrolls V: Skyrim](http://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim). I know, where have I been, right? Nearly all of my friends across the gaming spectrum have taken their vacation into [Tamriel](http://elderscrolls.wikia.com/wiki/Tamriel) and are back again, so I'm a little late to the party. But for a game that's won so many Game of the Year honors, it's better late than never.
 
 I've just gotten a handful of hours into Skyrim on the XBox 360 so far, and I'm already noticing a few questionable usability decisions. I mean, it's definitely sexy, but the game has a whole mod ([SkyUI](http://skyrim.nexusmods.com/mods/3863)) dedicated to fixing its menu system - that's not a great sign. I've got four little complaints already, so without further ado...
 
@@ -29,7 +31,7 @@ This is one of life's golden rules that I first learned not from anything design
 
 Skyrim's wait screen (where you're waiting intentionally as opposed to a loading screen) asks the player how long they want to wait, but never bother to put in that you're waiting in "hours":
 
-[![Skyrim's wait screen doesn't have units indicating how long you'll wait](images/wait-screen_crop.jpg "Skyrim's wait screen")](http://www.thatgamesux.com/wp-content/uploads/2012/12/wait-screen_crop.jpg)
+![Skyrim's wait screen doesn't have units indicating how long you'll wait](images/wait-screen_crop.jpg "Skyrim's wait screen")
 
 Sure, what else would you be waiting in other than hours? 2 minutes seems ridiculous as does 2 days. But when you've got things like "Middas" and "20th of Last Seed" on the screen, it's not a given. I definitely paused (briefly) when I saw this the first time and had to consider what was about to happen. Just put units on your numbers, it's good for everybody.
 
@@ -39,7 +41,7 @@ I'll admit it - I'm a bit of a hoarder when it comes to RPGs. I complained about
 
 Unfortunately, Skyrim doesn't give me any good way to do that. Much like cleaning out your email inbox when it's reaching the limit, usually the best strategy is to find the biggest, least valuable things, and drop them. While Outlook is pretty good at sorting by size, that's not an option in Skyrim.
 
-[![My Skyrim inventory is full, and I can't sort by size.](images/full_inventory-1024x580.jpg "full_inventory")](http://www.thatgamesux.com/wp-content/uploads/2012/12/full_inventory.jpg)
+![My Skyrim inventory is full, and I can't sort by size.](images/full_inventory.jpg "full_inventory")
 
 Notice in this screenshot that I'm a good 79 pounds over the limit, and all Skyrim gives me is an alphabetical list of inventory items, with no indication what any item's weight is until I point at it. Not helpful.
 
@@ -51,7 +53,7 @@ During your time in Skyrim, the player can choose a "follower" to fight along wi
 
 Here's the screen used to trade with your followers:
 
-[![Skyrim's menu for trading with your follower](images/follower_menu-1024x580.jpg "follower_menu")](http://www.thatgamesux.com/wp-content/uploads/2012/12/follower_menu.jpg)
+![Skyrim's menu for trading with your follower](images/follower_menu.jpg "follower_menu")
 
 In the left-most column, you can see my follower's inventory (Lydia) listed on top of my items (Lola). This means there's no way to directly compare your items with what your follower has - and in fact, it's downright inconvenient to back out of the menu you're in and scroll up to see what your friend has.
 
