@@ -27,7 +27,8 @@ In Mass Effect 2, they solved the problems from the first game by essentially ge
 
 So in Mass Effect 3, BioWare got back into the swing of things a little bit with a small amount of weapon customization and upgrading. For most of the game, I ran around and was happy to find weapon upgrades strewn around during missions. Towards the end, I realized there was a shop that you could go to for upgrading your weapons. Each weapon in Mass Effect 3 has five different levels, so in the screenshot below I'm looking at upgrading my Scorpion I to the Scorpion II:
 
-\[caption id="attachment\_173" align="alignnone" width="584" caption="The weapon upgrade screen in Mass Effect 3"\][![](images/120405-2108-12-1024x580.jpg "me3_upgrading_weapons")](http://www.thatgamesux.com/wp-content/uploads/2012/04/120405-2108-12.jpg)\[/caption\]
+[![](images/120405-2108-12-1024x580.jpg "me3_upgrading_weapons")](http://www.thatgamesux.com/wp-content/uploads/2012/04/120405-2108-12.jpg)
+> The weapon upgrade screen in Mass Effect 3
 
 I'm not sure if this screen could possibly be less useful. Elsewhere in the game, players find the ratings for each weapon that indicate how much damage it does, its ammo capacity, and some other useful statistics that help in making a good decision on what to equip. On the upgrade screen though, all that's listed is a very generic "improved weapon damage, ammo capacity, and weight". Well sure, that's awesome, but the player needs some more quantitative information than that.
 
