@@ -25,11 +25,11 @@ Ah, fetch quests. The bane of RPG enthusiasts everywhere. Basically, a fetch que
 
 While sometimes you can do your best to dress up a fetch quest so the player thinks they are doing something worthwhile, Mass Effect 3 doesn't even try. But really, that's not even why we're talking about them here on that game's ux. The problem is that _**Mass Effect 3 gives the player a huge number of fetch quests at once, then doesn't offer much of a way to keep track of the quest's progress.**_
 
-[![](images/journal-open-assignment-1024x580.jpg "Mass Effect 2's Journal screen")](http://www.thatgamesux.com/wp-content/uploads/2012/04/journal-open-assignment.jpg)
+[![](images/journal-open-assignment-1024x580.jpg "Mass Effect 2's Journal screen")](images/journal-open-assignment.jpg)
 
 First, let me explain how much better this situation was in Mass Effect 2. The screenshot above shows the Mass Effect 2's "Journal" screen, which is where the game gives the player details on their mission. After you get the mission, sub-bullets appear that indicate specifically how far along the player is, and what needs to be done next.  That's perfect because _**I have (nearly) a million missions to do, and I can't remember exactly how far I am along on each of them!**_ So once the player picks up an item, the game indicate who needs it, and where it should be delivered. And even better, [Mass Effect 2 even lists where the player needs to go on the galaxy map](http://www.thatgamesux.com/mass-effect-2s-galaxy-map-offers-information-when-you-need-it/ "Mass Effect 2: The Galaxy Map Offers Information When You Need It"), which is precisely where that information is needed.
 
-[![](images/journal-missions-2-1024x580.jpg "Mass Effect 3's Journal screen")](http://www.thatgamesux.com/wp-content/uploads/2012/04/journal-missions-2.jpg)
+[![](images/journal-missions-2-1024x580.jpg "Mass Effect 3's Journal screen")](images/journal-missions-2.jpg)
 
 Unfortunately, Mass Effect 3's quest system has taken a massive step backwards in the realm of usability. There are a couple of spots in the game where the player amasses these quests, and they come in large bunches. The screenshot to the right shows Mass Effect 3's Journal screen. Notice how there's no sub-bullets? There's a lot less information here. So in theory, giving less information to the player could make it feel a lot less routine, such that they might have to actually do some searching to find these items. In practice though, most of the time it's not realistically possible for to figure out where to make these quests happen if you aren't directly told. And a lot of the time, it's not even possible to complete the quest until some other, unknown story plot is completed.
 
