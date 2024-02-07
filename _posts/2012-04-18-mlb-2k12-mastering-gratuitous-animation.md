@@ -23,11 +23,11 @@ Among the major sports, baseball is unique in that it isn't governed by a time c
 
 MLB 2K12, another iteration of 2K Sports' annual baseball sim, does a pretty great job at capturing the "essence" of major league baseball. That also means it can take _forever_ to play a game. Mostly, I blame this on the annoyingly realistic way the batter and pitcher take their sweet time between pitches. Here's an example:
 
-<iframe src="http://www.youtube.com/embed/oxzF4wDA_DQ" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oxzF4wDA_DQ?si=YxmYrXGe19jUzarh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 While every batter is different, and even depending on the at-bat each animation length can vary, in the video above it's about 15 seconds long between pitches. That's 15 seconds from swinging at the previous pitch to seeing the strike zone and being prepared for the next one. Of course, the player isn't locked into watching this every time. The A button will skip a majority of the animation, which speeds things up considerably. See this video as an example:
 
-<iframe src="http://www.youtube.com/embed/7kDjlJABp9I" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7kDjlJABp9I?si=jqPdz8rIs9HUniCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This animation is about 4 seconds - significantly faster! Let's talk about exactly how much faster. In a real MLB game, the [average number of pitches](http://www.baseball-reference.com/blog/archives/7533) thrown is close to 150 per team. Subtracting all the times a player gets a hit, or otherwise there's some skippable animation, let's say it's about 100 occasions per game (per team) that a player could save 10 seconds. That's 200 occasions x 10 seconds = 2,000 seconds or about 33 minutes! A full half hour in animations of guys messing with their batting gloves!
 
@@ -35,7 +35,7 @@ In the games that I've played, I've skipped as many of these as possible and it'
 
 The players moving around between pitches isn't the only time that things are slow in this game. While pitching, the player has access to a few different pitch charts that show stats like previous pitch locations. Those animations are needlessly slow too - the chart slowly slides in, then it takes a bit for the data to show up on the page, and after that a crazy gloss slides across. Is all of this festiveness necessary? I'm in the middle of pitching, just give me the information! Here's an example of what I'm talking about:
 
-<iframe src="http://www.youtube.com/embed/mU4vjKD5OG8" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mU4vjKD5OG8?si=teBA5M2dOyof46tP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Thankfully, a couple of years ago 2K Sports started including a "hurry up" mode for those who want to bypass all of the tv-style flourishes. It doesn't solve the needlessly dramatic (and glossy) slide-in of your pitch charts, but it eliminates a lot of the other non-essential presentations like replays and between pitch animations. So it's definitely an all-or-nothing affair, which isn't always ideal...even basic stats like batting average are skipped for you.
 
