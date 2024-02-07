@@ -18,7 +18,8 @@ tags:
   - "ux"
 ---
 
-[![](images/diablo-icon.jpg "diablo icon")](http://www.thatgamesux.com/wp-content/uploads/2012/06/diablo-icon.jpg)I've received a lot of great feedback from last week's article on the [usability of the Diablo 3 auction house](http://www.thatgamesux.com/diablo-3-auction-house-usability-is-hellish-but-not-nightmarish/ "Diablo 3: Auction House Usability is Hellish"). So much feedback in fact, this week I want to cover five more points on the topic:
+![](images/diablo-icon.jpg "diablo icon")
+I've received a lot of great feedback from last week's article on the [usability of the Diablo 3 auction house](http://www.thatgamesux.com/diablo-3-auction-house-usability-is-hellish-but-not-nightmarish/ "Diablo 3: Auction House Usability is Hellish"). So much feedback in fact, this week I want to cover five more points on the topic:
 
 - Searching for named items
 - No arrow key support in named item autocomplete
@@ -27,18 +28,20 @@ tags:
 - Unhelpful item recommendations
 
 ## Named Item Search
+<img src="images/disabled-equipment-search.png" align="right">
 
-[![](images/disabled-equipment-search-138x300.png "disabled equipment search")](http://www.thatgamesux.com/wp-content/uploads/2012/06/disabled-equipment-search.png)A feature that I hadn't actually used much until recently is the named item search. I mentioned in the last article that all of the items in Diablo 3 have randomly generated names. That's not entirely true; certain "legendary" (rarer than rare) items or items that are part of a set both have names that are fixed. A textbox enables the user to directly search for these items, which is handy. But, strangely enough, when entering a named item, it disables the rest of the search criteria.
+A feature that I hadn't actually used much until recently is the named item search. I mentioned in the last article that all of the items in Diablo 3 have randomly generated names. That's not entirely true; certain "legendary" (rarer than rare) items or items that are part of a set both have names that are fixed. A textbox enables the user to directly search for these items, which is handy. But, strangely enough, when entering a named item, it disables the rest of the search criteria.
 
 That doesn't make sense - the name may be fixed, but the stats are as random as anything else. Not only does this make it way harder to find a suitable item, it is also something that you'd never expect. The [Principle of Least Astonishment](http://en.wikipedia.org/wiki/Principle_of_least_astonishment) is one of my favorite design principles, and it's definitely violated here. I was searching here for a legendary dagger called "The Horadric Hamburger", and I got a lot of results:
 
-\[caption id="attachment\_401" align="aligncenter" width="849" caption="Those are some expensive burger-daggers"\][![](images/horadric-hamburger.png "horadric hamburger")](http://www.thatgamesux.com/wp-content/uploads/2012/06/horadric-hamburger.png)\[/caption\]
+[![](images/horadric-hamburger.png "horadric hamburger")](images/horadric-hamburger.png)
+> That's a lot of burger daggers
 
 When I did this search, I found over 300 instances of The Horadric Hamburger. Each one of them has the same name, but completely different attributes. Why Diablo 3 doesn't let you use the existing interface to continue narrowing down your selection, I have no idea. This means the should-be helpful name search is basically worthless - to make an informed decision, you'll need to continue searching by attributes.
 
 ## Keyboard-Supported Autocomplete
 
-[![](images/legendary-autocomplete.png "legendary autocomplete")](http://www.thatgamesux.com/wp-content/uploads/2012/06/legendary-autocomplete.png)
+![](images/legendary-autocomplete.png "legendary autocomplete")
 
 Here's an easy one to fix - when typing in the name of a legendary or set item, a handy autocomplete box pops up to help guide the user. There are many [examples](http://ui-patterns.com/patterns/Autocomplete) of [autocomplete](http://welie.com/patterns/showPattern.php?patternID=autocomplete) [patterns](http://developer.yahoo.com/ypatterns/selection/autocomplete.html) on the web, and all of them say the user should be able to use the keyboard to make the selection. Using arrow keys is natural here because that's the way it works everywhere else. This doesn't work in Diablo 3 however, which is frustrating. **If you're using a standard control, make it act like a standard control!**
 
@@ -56,7 +59,8 @@ Occasionally, accessories such as rings or amulets provide the wearer with a bon
 
 When first opening up the Diablo 3 auction house, what should be a helpful screen appears with recommended items. I'll be the first to admit that I'm not a master at Diablo and I'd love the chance for the game to recommend things that would be good for my character. What I think happens is the game finds the lowest level item that you have equipped, and gives you a whole bunch of recommendations for that:
 
-[![](images/recommended-belts.png "recommended belts")](http://www.thatgamesux.com/wp-content/uploads/2012/06/recommended-belts.png) At the moment, it looks like I need a belt, so the game gives me about 500 recommendations. This list can be sorted by the buyout amount, but it doesn't show the armor value like other lists do - probably because theoretically, any item type could be in this list. Regardless, sorting by buyout amount is the only way to filter this data. So how useful really is this list then? Not very much.
+![](images/recommended-belts.png "recommended belts")
+At the moment, it looks like I need a belt, so the game gives me about 500 recommendations. This list can be sorted by the buyout amount, but it doesn't show the armor value like other lists do - probably because theoretically, any item type could be in this list. Regardless, sorting by buyout amount is the only way to filter this data. So how useful really is this list then? Not very much.
 
 I love the idea for recommended items - it would be way better though if I could make a choice up front on what I want recommendations for. Or some kind of filtering mechanism, at least by the primary attribute for the item (so armor, DPS for weapons, etc). The way it is right now, it's just a waste of space - you might as well put a scary Diablo picture in there.
 
