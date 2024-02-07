@@ -20,11 +20,13 @@ tags:
 
 The other day, I was watching a playoff baseball game, and in an attempt to keep my mind off the baseball game, I decided to fire up [Civilization Revolution](https://itunes.apple.com/us/app/civilization-revolution/id324563544?mt=8) on my iPhone. While it's a definitely cramped on the iPhone, it's still a great game for the mobile setting - easy to pick up for just a couple of minutes (in theory anyway), and balances complex gameplay with simple enough controls to make it a fun and rewarding diversion.
 
-While I spent most of the baseball game conquering the Russians (they were in my way, what could I do?), I didn't get to see my civilization rise to its true glory. Not because the Americans were about to breach my defenses, but instead, the game silently refused to save my game. This is a UX disaster - read on to hear the whole story. [![20121016-210447.jpg](images/20121016-210447.jpg)](http://www.thatgamesux.com/wp-content/uploads/2012/10/20121016-210447.jpg) 
+While I spent most of the baseball game conquering the Russians (they were in my way, what could I do?), I didn't get to see my civilization rise to its true glory. Not because the Americans were about to breach my defenses, but instead, the game silently refused to save my game. This is a UX disaster - read on to hear the whole story.
+
+![20121016-210447.jpg](images/20121016-210447.jpg)
 
 I played about 2 hours of Civilization Revolution on my iPhone during this particular session, and I was frequently saving as any good player does. Nothing seemed out of the ordinary while I was in-game; returning to the save or load screens displayed my game save as I would expect. Eventually I exited the game to go back to the main menu. From here, trying to load the game again showed no save ever existed. I built a 1:30 video to demonstrate (the iPad and iPhone versions act exactly the same - I used the iPad version in the video for my ease of creation).
 
-<iframe src="http://www.youtube.com/embed/4kATxF9BcuU" frameborder="0" width="420" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4kATxF9BcuU?si=ZtCSDH0EXkjtYhnS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Civilization Revolution recently issued an upgrade that enabled iCloud saves - this seems like a great idea, as it promises the ability to resume a game started on the iPhone on the iPad. I have a feeling it isn't working quite as intended here. As I said in the video, I don't know if it's a problem with my iCloud account or the Civilization Revolution game. Either way, I have no idea how I would fix it.
 
