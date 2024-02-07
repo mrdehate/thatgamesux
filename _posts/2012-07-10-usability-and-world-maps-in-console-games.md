@@ -46,7 +46,7 @@ This works out amazingly well for Brutal Legend, and it's a good thing too, beca
 
 Status menus are relatively common in console games. Usually it goes like this: press Select/Back, and a few pages worth of content are presented that the player can cycle through, including the world map, maybe an inventory, list of missions, and other status-y information. [Borderlands](http://en.wikipedia.org/wiki/Borderlands_(video_game)) applies this pattern, and it works well enough since there are only a handful of pages, and all the pages cycle instantly when swapping between them.
 
-<iframe src="http://www.youtube.com/embed/OfiZ_9UMhlo" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OfiZ_9UMhlo?si=qyNXzNzBlambD10q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 It is worth mentioning that most of the time the Select/Back button will always bring up the last page that was viewed, so the map can be a one-button access. Most of the time not knowing exactly what page will come up when accessing the status menu isn't a huge problem (or a small problem, for that matter), though it does cause a little bit more thinking to get to the map. So not as convenient as Brutal Legend's direct map access, but it offers a lot more information.
 
@@ -54,7 +54,7 @@ _Note: in doing research for this article, I discovered that you can hold Select
 
 [The Witcher 2: Assassins of Kings](http://en.wikipedia.org/wiki/The_Witcher_2:_Assassins_of_Kings) takes this same pattern and makes it considerably more annoying:
 
-<iframe src="http://www.youtube.com/embed/fy_rfv0MMVs" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fy_rfv0MMVs?si=qi7jbD2cgWqil7o2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 You might not have noticed it in the video, but while switching between the pages of this menu, the screen fades to black for about a half a second. I know, this sounds like the tiniest thing to nitpick, however repeated use of the map can make it quite irritating. In playing The Witcher 2, I find myself constantly in the menu system dealing with inventory and equipment. I also find myself being lost all the time. This means I'm swapping between pages a lot, and this short pause between screens gets annoying in a hurry.
 
@@ -64,11 +64,13 @@ Jakob Nielsen's [paper on response times](http://www.useit.com/papers/responseti
 
 Of course, a valid question is why would you even need a status menu when you've got a pause menu already right? That works for a lot of games - [LA Noire](http://en.wikipedia.org/wiki/L.A._Noire) dedicates the Select/Back button to your "casebook", which is busy collecting clues about the case that you're working on. This means the map can be accessed from the pause menu:
 
-\[caption id="attachment\_449" align="alignnone" width="179"\][![](images/menu_crop-179x300.jpg "menu_crop")](http://www.thatgamesux.com/wp-content/uploads/2012/07/menu_crop.jpg) The pause menu in LA Noire\[/caption\]
+![](images/menu_crop.jpg "menu_crop")
+> The pause menu in LA Noire
 
 [Red Dead Redemption](http://en.wikipedia.org/wiki/Red_Dead_Redemption) has the Select/Back button dedicated to your inventory, so again it's to the pause menu with the map:
 
-\[caption id="attachment\_450" align="alignnone" width="296"\][![](images/menu_crop1-296x300.jpg "menu_crop")](http://www.thatgamesux.com/wp-content/uploads/2012/07/menu_crop1.jpg) The pause menu in Red Dead Redemption: Undead Nightmare\[/caption\]
+![](images/menu_crop1.jpg "menu_crop")
+> The pause menu in Red Dead Redemption: Undead Nightmare
 
 Something to note about both of these examples: the map is the top option. This is an important distinction, because it's for sure the most used item on the menu. That means gamers can know it's a simple Start-then-A (or X) button combo to get the map. It's not quite one-button access, but it's close.
 
