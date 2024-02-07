@@ -20,6 +20,7 @@ tags:
 ---
 
 ![](images/256px-BrutalLegendCover.jpeg "BrutalLegendCover")
+
 By all accounts [Brutal Legend](http://en.wikipedia.org/wiki/Br%C3%BCtal_Legend) was a game that wanted to be noticed. Unfortunately it wasn't always for the right reasons.
 
 One thing that was universally acclaimed about the game was how it was absolutely dripping with personality. This was clear by the main menu, which was built to mimic an old vinyl record. The game's intro video claims "it's not just going to blow your mind...it's going to blow your soul". By strict usability measures the menu isn't perfect, but I'll take having my soul blown over Jakob Nielsen's approval any day of the week!
