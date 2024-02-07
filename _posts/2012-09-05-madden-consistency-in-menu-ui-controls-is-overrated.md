@@ -30,7 +30,7 @@ Since you are creating a superstar after all, there are quite a few details to b
 
 Unfortunately, my copy of Madden NFL 12 has mysteriously been marked with a ring rendering it unplayable, but I was able to locate a [quick video from another YouTuber](http://youtu.be/44UfhrdiwnM?t=1m36s) demonstrating the awesomeness of this control in Madden NFL 13 (start at the 1:35 mark or so). If you don't want to check out the video, here's the gist: the player selects the college by tapping right or left through every college that's listed in the game, and there are a ton of them. Here's a screencap from the video:
 
-[![](images/madden-college-picker-300x199.jpg "madden college picker")](http://www.thatgamesux.com/wp-content/uploads/2012/06/madden-college-picker.jpg)
+![](images/madden-college-picker.jpg "madden college picker")
 
 I don't know about you, but I feel like this is a little out of hand. If the college you're looking for is in the middle of the alphabet, you might have to tap hundreds of times! Thankfully, you don't have to tap, you can at least hold down right or left to move through a little more quickly. But hey, at least it's consistent right? This control is the same exact one used in the rest of the menu options, you just tap left or right to cycle through the choices.
 
