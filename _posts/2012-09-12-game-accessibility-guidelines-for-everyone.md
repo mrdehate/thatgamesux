@@ -32,7 +32,7 @@ The only time I can think of that autosave has caused me drama was in Mass Effec
 
 Here's something that I touched on a little bit in my article on [game title screens](http://www.thatgamesux.com/title-screens-because-you-arent-done-waiting-just-yet/). MLB 2K12 actually does a good job of getting players to start quickly...once the main screen finally loads. Braid is a good example of a game that bypasses the main menu entirely and drops players off right where they need to be. Grand Theft Auto IV (and possibly previous titles?) is a bigger title that does the same thing. If I have a save game, yes, 99.9% of the time I want to continue that game, so just do it! 
 
-<iframe src="http://www.youtube.com/embed/trj4tk7vbLU?feature=player_embedded" frameborder="0" width="640" height="360"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/trj4tk7vbLU?si=vAfU5fSy_xyfYRey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Allow all narrative and instructions to be replayed
 
