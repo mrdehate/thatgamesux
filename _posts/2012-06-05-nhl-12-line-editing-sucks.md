@@ -19,7 +19,7 @@ tags:
   - "xbox-360"
 ---
 
-[![](images/120303-2259-21-300x170.jpg "The line editing screen in NHL 12")](http://www.thatgamesux.com/wp-content/uploads/2012/03/120303-2259-21.jpg)
+[![](images/120303-2259-21.jpg "The line editing screen in NHL 12")](images/120303-2259-21.jpg)
 
 As [previously](http://www.thatgamesux.com/nhl-12-curse-of-the-abbreviation/ "NHL 12: Curse of the Abbrevation") [mentioned](http://www.thatgamesux.com/nhl-12-finding-the-right-trade-partner-is-hard/ "NHL 12: Finding the Right Trade Partner is Hard"), NHL 12 has some usability issues. For a game of its scope, maybe that's not unexpected. There are a lot of menus to sift through for sim-heavy parts of the game like the Be a GM mode. But being able to change what players are on what line shouldn't be that hard. It's been in every hockey game since the beginning of time (probably). Unfortunately, NHL 12 manages to be terrible in a lot of ways on this one screen.
 
