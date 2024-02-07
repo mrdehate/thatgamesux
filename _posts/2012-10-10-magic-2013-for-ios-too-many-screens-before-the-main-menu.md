@@ -15,7 +15,7 @@ tags:
   - "usability-in-gaming"
 ---
 
-[![Magic: the Gathering logo](images/IMG_0081-300x225.jpg "Magic: the Gathering logo")](http://www.thatgamesux.com/wp-content/uploads/2012/10/IMG_0081.jpg)
+[![Magic: the Gathering logo](images/IMG_0081-300x225.jpg "Magic: the Gathering logo")](images/IMG_0081.jpg)
 
 I played a lot of Magic: the Gathering for a few years back in the 1997 range. I spent a fair amount of time and money on the game, but eventually I ran out of people to play with, and that pretty much ended my Magic career. My wallet was thankful, though I always missed playing. Fast forward a few (quite a few) years to 2012 when [Magic 2013 for iPad](http://itunes.apple.com/us/app/magic-2013/id502588466?mt=8) was released. Card games on the iPad seems to be a natural fit, and I was excited to pick it up.
 
@@ -25,25 +25,25 @@ Assuming you want to get playing as fast as possible (seems likely?), there are 
 
 ## Tap 1: Useless Wizards of the Coast logo
 
-[![WotC startup logo](images/IMG_0083-300x225.jpg "Wizards of the Coast")](http://www.thatgamesux.com/wp-content/uploads/2012/10/IMG_0083.jpg)
+[![WotC startup logo](images/IMG_0083-300x225.jpg "Wizards of the Coast")](images/IMG_0083.jpg)
 
 The game starts with an animated logo for Wizards of the Coast, creator of Magic: the Gathering. It's short, but it doesn't offer any value. It's standard issue on PC and console titles, and it isn't crazy to be on an iOS title either. That doesn't make it any more helpful for a gamer that's got a limited amount of time to play though.
 
 ## Tap 2: Useless Stainless Games logo
 
-[![Stainless Games logo](images/IMG_0084-300x225.jpg "Stainless Games")](http://www.thatgamesux.com/wp-content/uploads/2012/10/IMG_0084.jpg)
+[![Stainless Games logo](images/IMG_0084-300x225.jpg "Stainless Games")](images/IMG_0084.jpg)
 
 Stainless Games is the game studio that built the iOS title, and they get their logo on a splash screen too. Again, it only takes a couple of seconds, but the player will see it every time unless they tap the screen to skip it. No value.
 
 ## Tap 3: Really Useless Game Center Pop-Up
 
-[![Magic 2013 Game Cener popup](images/game-center-300x113.jpg "Magic 2013 Game Cener popup")](http://www.thatgamesux.com/wp-content/uploads/2012/10/game-center.jpg)
+![Magic 2013 Game Cener popup](images/game-center.jpg "Magic 2013 Game Cener popup")
 
 I really don't understand what this pop-up is about. So it's telling me that I'm signed in with my Game Center ID? Are there a lot of users that have to deal with multiple Game Center IDs on the same device? The game already uses the default iOS Game Center notification saying "Welcome, _\[your game center id\]_" once you finally get to the main menu, so I don't understand the value of this pop-up. Especially forcing the player to tap OK every single time the game is started; that seems excessive.
 
 ## Tap 4: My Favorite, the Useless Title Screen
 
-[![Magic 2013 logo/start screen](images/IMG_0080-300x225.jpg "Magic 2013 logo/start screen")](http://www.thatgamesux.com/wp-content/uploads/2012/10/IMG_0080.jpg)
+[![Magic 2013 logo/start screen](images/IMG_0080-300x225.jpg "Magic 2013 logo/start screen")](images/IMG_0080.jpg)
 
 Once you clear the random pop-up, of course, we get a classic "Press Start" screen that has to be skipped through. This is a relatively common practice that has [come up before on the site](http://www.thatgamesux.com/title-screens-because-you-arent-done-waiting-just-yet/ "Title Screens: Because You Aren’t Done Waiting Just Yet"), and it's super useless here. With a console or PC game, a "demo mode" triggered by sitting on the title screen long enough at least a little more sense than it does with an iOS game.
 
