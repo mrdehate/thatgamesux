@@ -43,7 +43,7 @@ Here's the problem - it's difficult to make a good comparison because there are 
 
 A common strategy that I like to use is to just use whichever item will sell for more. While this can get you into trouble in real life, usually price is a reasonable guide to quality. But with how the rarity system works, this doesn't help any either. My level 2 Commando happened to find a legendary pistol right when the game started. Up to level 15, it's still worth the most of any item I've found, and clearly isn't worth using.
 
-![](images/comparing-weapons-300x168.jpg "comparing weapons")
+![](images/comparing-weapons.jpg "comparing weapons")
 > Some complicated weapon comparison happening here
 
 So that means even rarity doesn't tell you a lot about the item's usefulness (it's a good indicator of how much it can be sold for though, so that's something). Sure an item might be super-rare, but it's entirely possible that it won't work as well as a common item.
@@ -52,7 +52,7 @@ The game does provide an easy visual to tell if a stat is better than your curre
 
 ## It's like a mini-mall
 
-![](images/orange-gun-in-backpack-300x168.jpg "orange gun in backpack")
+![](images/orange-gun-in-backpack.jpg "orange gun in backpack")
 > A legendary pistol achieved early in the game
 
 In the original Borderlands, as players used certain weapon types, they would get better and better at using them - so faster reload time, more damage, more accuracy, that sort of thing. That meant that gamers would usually pick one or two classes of weapons and stick with them, because that just makes sense. As a result, any time a weapon that you weren't proficient at showed up, you could immediately dump it (or just not pick it up).
