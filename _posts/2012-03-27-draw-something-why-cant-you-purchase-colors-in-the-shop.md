@@ -32,7 +32,7 @@ UX-wise, there's not a whole lot going on in Draw Something, so it's pretty soli
 
 There's just one thing that makes me scratch my head.  On the main page, there's a big "shop" button that invites you to spend your hard-earned coins.  When opening the shop, you can buy more bombs, and you can spend real money to get more coins.  But you can't buy the additional colors from the shop - those you can only get when you are making a drawing.
 
-[![](images/IMG_1767-200x300.jpg "draw_something-drawing")](http://www.thatgamesux.com/wp-content/uploads/2012/03/IMG_1767.jpg)
+[![](images/IMG_1767-200x300.jpg "draw_something-drawing")](images/IMG_1767.jpg)
 > This is the page in Draw Something where you, well, draw something. Notice that little plus to the right of the color swatches? That's where you get more colors.
 
 Doesn't that seem a little weird?  Wouldn't it seem like the shop is an ideal place to spend your coins on buying colors?  If you want to upgrade your colors and you aren't currently drawing, you'd have to start a new game and cancel it to see what your options are.  That's not real convenient.
