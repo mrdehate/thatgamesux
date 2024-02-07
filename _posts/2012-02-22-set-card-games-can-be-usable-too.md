@@ -13,7 +13,7 @@ tags:
   - "user-experience"
 ---
 
-\[caption id="attachment\_61" align="alignleft" width="300" caption="It's Set!"\] [![Box for Set](images/IMG_1735-300x224.jpg "set_the_card_game")](http://www.thatgamesux.com/wp-content/uploads/2012/02/IMG_1735.jpg)\[/caption\]
+![Box for Set](images/IMG_1735-300x224.jpg "set_the_card_game")
 
 [Set is an abstract card game](http://boardgamegeek.com/boardgame/1198/set) that is more of a brainteaser than a "game".  Being a Mensa-recommended brainteaser, this means that it's a bit complex to get your head around.  Maybe not complex in the same way as [Axis & Allies](http://boardgamegeek.com/boardgame/98/axis-allies), but Set requires a lot of mental processing for the first time player.
 
@@ -21,7 +21,8 @@ In a nutshell, Set is a game about finding "sets" (see what they did there?) of 
 
 And this is why it's being featured here on thatgamesux.com: it is packaged in a way to **_help ease the player into fully understanding the game._** There are lots of games that have different rules for first-time players - sometimes they eliminate certain parts of the game, or give the players extra resources, or something else to make it a little easier the first time around.  Set eliminates one whole dimension of matching - so there's only three different ways to match the cards.  That makes a massive difference in getting the hang of the game.
 
-\[caption id="attachment\_62" align="alignright" width="300" caption="Notice how the pack of cards on the left is bigger than the one on the right? That's not an accident..."\] [![The decks of cards that come with Set](images/IMG_1736-300x224.jpg "set_card_decks")](http://www.thatgamesux.com/wp-content/uploads/2012/02/IMG_1736.jpg)\[/caption\]
+[![The decks of cards that come with Set](images/IMG_1736-300x224.jpg "set_card_decks")](http://www.thatgamesux.com/wp-content/uploads/2012/02/IMG_1736.jpg)
+> Notice how the pack of cards on the left is bigger than the one on the right? That's not an accident...
 
 The best part is that the game comes with two different decks of cards, and for the first play, you just need to unwrap the smaller deck and use those cards.  Brilliant!  Ready for the full challenge?  Unwrap the second deck and shuffle it in, you're good to go.  It's a tiny thing, but it keeps players from having to sort through the cards and manually remove one type.  More likely, without this touch, everybody would just shuffle all the cards together and end up feeling really stupid the first time through.
 
