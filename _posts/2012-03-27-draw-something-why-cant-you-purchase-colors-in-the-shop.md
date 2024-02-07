@@ -20,9 +20,9 @@ tags:
   - "usability"
   - "ux"
 ---
+> _Note: since this article was originally published, Draw Something was updated to actually let you purchase colors from the shop. I'm sure it was a direct result of this article =)_
 
 ![](images/IMG_1769-200x300.jpg "draw_something-home")_
-Note: since this article was originally published, Draw Something was updated to actually let you purchase colors from the shop. I'm sure it was a direct result of this article =)_
 
 [Draw Something](http://itunes.apple.com/us/app/draw-something-by-omgpop/id488627858?mt=8) (iTunes link) is the new hotness for mobile phones.  If you aren't familiar, it's basically turn-based Pictionary.  Player 1 draws something, player 2 sees the drawing (it's animated so you can watch the person draw the picture, which is pretty cool) and guesses the word.  Pretty straightforward stuff.
 
