@@ -21,7 +21,8 @@ tags:
   - "ux"
 ---
 
-![](images/IMG_1769-200x300.jpg "draw_something-home")_Note: since this article was originally published, Draw Something was updated to actually let you purchase colors from the shop. I'm sure it was a direct result of this article =)_
+![](images/IMG_1769-200x300.jpg "draw_something-home")_
+Note: since this article was originally published, Draw Something was updated to actually let you purchase colors from the shop. I'm sure it was a direct result of this article =)_
 
 [Draw Something](http://itunes.apple.com/us/app/draw-something-by-omgpop/id488627858?mt=8) (iTunes link) is the new hotness for mobile phones.  If you aren't familiar, it's basically turn-based Pictionary.  Player 1 draws something, player 2 sees the drawing (it's animated so you can watch the person draw the picture, which is pretty cool) and guesses the word.  Pretty straightforward stuff.
 
@@ -31,7 +32,9 @@ UX-wise, there's not a whole lot going on in Draw Something, so it's pretty soli
 
 There's just one thing that makes me scratch my head.  On the main page, there's a big "shop" button that invites you to spend your hard-earned coins.  When opening the shop, you can buy more bombs, and you can spend real money to get more coins.  But you can't buy the additional colors from the shop - those you can only get when you are making a drawing.
 
-\[caption id="attachment\_153" align="alignright" width="200"\][![](images/IMG_1767-200x300.jpg "draw_something-drawing")](http://www.thatgamesux.com/wp-content/uploads/2012/03/IMG_1767.jpg) This is the page in Draw Something where you, well, draw something. Notice that little plus to the right of the color swatches? That's where you get more colors.\[/caption\]
+[![](images/IMG_1767-200x300.jpg "draw_something-drawing")](http://www.thatgamesux.com/wp-content/uploads/2012/03/IMG_1767.jpg)
+
+This is the page in Draw Something where you, well, draw something. Notice that little plus to the right of the color swatches? That's where you get more colors.\[/caption\]
 
 Doesn't that seem a little weird?  Wouldn't it seem like the shop is an ideal place to spend your coins on buying colors?  If you want to upgrade your colors and you aren't currently drawing, you'd have to start a new game and cancel it to see what your options are.  That's not real convenient.
 
