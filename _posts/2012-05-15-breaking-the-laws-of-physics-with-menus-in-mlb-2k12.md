@@ -22,13 +22,13 @@ In a recent blog post, I talked about how [MLB 2K12 takes way too long](http://w
 
 I could think of less awkward ways for the game to speed things along, but that's not the point of this post. The point is, the menu option where you pick hurry up mode acts really strangely if you aren't paying close attention to what's going on. It's not ever a good idea to break the laws of physics, and I'd say that's especially true in a game's menu system.
 
-[![An image of the menu showing Game Flow among other options](images/hurry-up-screencap-1024x318.png "hurry up screencap")](http://www.thatgamesux.com/wp-content/uploads/2012/05/hurry-up-screencap.png)
+![An image of the menu showing Game Flow among other options](images/hurry-up-screencap-1024x318.png "hurry up screencap")
 
 Here's the problem: when selecting hurry up mode, there are three other options that aren't available anymore. Action Replays (a TV-style instant replay), Pitch Analyzer (while pitching it gives the player more detail on how well or poorly the last pitch was thrown), and Swing Analyzer (while batting, a small slo-mo replay shows if the last swing was early or late).
 
 So if you pick hurry-up mode, none of these options are available, and I think that's a reasonable tradeoff - it doesn't really make sense to keep them enabled. My beef with it is how the game presents the player with this tradeoff. Here's a quick video to show you how it actually works:
 
-<iframe src="http://www.youtube.com/embed/Y4KUYT3791c" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4KUYT3791c?si=8M90BasaTS_v_F-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This fails in two major ways.
 
