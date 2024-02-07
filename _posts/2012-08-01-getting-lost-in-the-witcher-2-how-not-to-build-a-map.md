@@ -21,7 +21,8 @@ tags:
   - "xbox-360"
 ---
 
-\[caption id="attachment\_496" align="alignright" width="300"\][![](images/geralt-and-dwarf-300x210.jpg "geralt and dwarf")](http://www.thatgamesux.com/wp-content/uploads/2012/07/geralt-and-dwarf.jpg) I may have to ask this dwarf for directions, but he looks pretty angry...\[/caption\]
+![](images/geralt-and-dwarf.jpg "geralt and dwarf")
+> I may have to ask this dwarf for directions, but he looks pretty angry...
 
 Nobody likes getting lost, let's be honest. It's frustrating, because there's usually somewhere else that you'd rather be, and unless you happen to be lost on a beach in Hawaii somewhere, you just want to get to your destination. Even worse is when you keep ending up going in circles - at least if you're seeing new territory, it feels like progress is being made.
 
@@ -31,11 +32,13 @@ Being lost isn't any more fun in video games. Last week I talked about how Dice 
 
 Here's the map from the first chapter of the game:
 
-\[caption id="attachment\_486" align="alignnone" width="584"\][![](images/map-harbor-zoomed-out-1024x580.jpg "map - first chapter")](http://www.thatgamesux.com/wp-content/uploads/2012/07/map-harbor-zoomed-out.jpg) The map for the first chapter of The Witcher 2\[/caption\]
+![](images/map-harbor-zoomed-out.jpg "map - first chapter")
+> The map for the first chapter of The Witcher 2
 
 From looking at the map, you'd think there was a town, mostly surrounded by plains, with a few main paths that run out of town. In reality though, the town is actually in the middle of dense forest. And those "paths" do technically exist, but so do a ton of other unmarked paths, all of which are windy and twisty and probably don't take you where you want to go.
 
-\[caption id="attachment\_488" align="alignright" width="296"\][![](images/minimap.jpg "minimap")](http://www.thatgamesux.com/wp-content/uploads/2012/07/minimap.jpg) It has the time of day, but doesn't list north.\[/caption\]
+![](images/minimap.jpg "minimap")
+> It has the time of day, but doesn't list north.
 
 One of the major problems with being lost in the forest (in real life) it's hard to keep going in a straight line. When all you see is trees, you've got to have an incredible sense of direction to keep your frame of reference intact. Or, like the Boy Scouts tell you, just bring a compass. Surely, a professional Witcher like Geralt of Rivia could be able to tell you which way is north, right? Apparently not. Amazingly, the minimap doesn't feature "north" anywhere. There is a tiny arrow that points to your destination, and an indicator of what time of day it is, but a cardinal direction isn't included, and it would be super helpful.
 
@@ -43,7 +46,7 @@ One of the major problems with being lost in the forest (in real life) it's hard
 
 In town, you might think it's a little easier to keep track of where you are, right? Here's a closeup of the town of Flotsam:
 
-[![](images/map-flotsam-1024x581.jpg "map - flotsam")](http://www.thatgamesux.com/wp-content/uploads/2012/07/map-flotsam.jpg)
+![](images/map-flotsam.jpg "map - flotsam")
 
 A quick side note - while those little shields might look great on your computer monitor, they are terrible on a TV. It's clear that the game was ported to the XBox, because it's pretty much impossible to tell them apart on the console.
 
@@ -57,11 +60,12 @@ But let's get to the real fun stuff in Chapter 2, where the game moves to the to
 
 Vergen is a big city, no doubt. This map doesn't capture the whole thing, but it contains most of it:
 
-\[caption id="attachment\_487" align="alignnone" width="584"\][![](images/map-vergen-1024x580.jpg "map - vergen")](http://www.thatgamesux.com/wp-content/uploads/2012/07/map-vergen.jpg) Ugh, Vergen.\[/caption\]
+![](images/map-vergen.jpg "map - vergen")
+> Ugh, Vergen
 
 And why, you might wonder, couldn't I capture the whole city in the screenshot? Here's why:
 
-<iframe src="http://www.youtube.com/embed/OOJxWJfvCxc" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOJxWJfvCxc?si=NFLaYjsYHLqR60Dh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Incredibly, if you zoom out too far I instead get transported to a world map view of the world. First, there's essentially no reason for me to ever refer to the world map. Sure, if I for some reason cared to see where all the game's locations are in relation to each other, I might be able to do it there. But this world map isn't even in English, so there is no way for me to use this even if I wanted to, which nobody actually does. To not let me zoom out to see the whole city, when it's as big and complicated as this one, is insanity.
 
@@ -71,11 +75,13 @@ Anyway, back to the map of Vergen itself. Among the things that the map does a t
 
 What makes matters even worse is the game doesn't make it clear if a door is a gateway to the next area or a residence. Check it out - this door leads to another area:
 
-\[caption id="attachment\_489" align="alignnone" width="584"\][![](images/red-door-hallway-1024x580.jpg "red door - hallway")](http://www.thatgamesux.com/wp-content/uploads/2012/07/red-door-hallway.jpg) This door leads to another area\[/caption\]
+![](images/red-door-hallway.jpg "red door - hallway")
+> This door leads to another area
 
 But this door leads to a residence:
 
-\[caption id="attachment\_490" align="alignnone" width="584"\][![](images/red-door-house-1024x580.jpg "red door - house")](http://www.thatgamesux.com/wp-content/uploads/2012/07/red-door-house.jpg) This door leads to a residence\[/caption\]
+![](images/red-door-house.jpg "red door - house")
+> This door leads to a residence
 
 Really? That's the exact same door. Sure, the surroundings aren't exactly the same, but come on, you've got to give us some kind of help for what's on the other side.
 
