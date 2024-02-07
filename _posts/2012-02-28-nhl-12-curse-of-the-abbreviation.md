@@ -21,7 +21,7 @@ tags:
   - "ux"
 ---
 
-[![OHL team home](images/120130-1953-02-1024x580.jpg "OHL team home")](http://www.thatgamesux.com/wp-content/uploads/2012/01/120130-1953-02.jpg)
+[![OHL team home](images/120130-1953-02-1024x580.jpg "OHL team home")](images/120130-1953-02.jpg)
 
 Here's an interesting problem I've had with NHL 12 - while playing the Be a GM mode, primarily I like to play as the NHL team. I'd say, probably a fair guess that most other people do too. But occasionally I do like to drop into an OHL team game for various reasons. Sometimes I want to see how well a prospect does, sometimes I just want to try and help out the team when playing a tough opponent.
 
