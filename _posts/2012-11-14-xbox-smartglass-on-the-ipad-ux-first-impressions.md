@@ -23,7 +23,7 @@ Being the owner of both an XBox 360 and an iPad, I had a few minutes to try it o
 
 The first game console I can remember playing was the [Sega Master System](http://en.wikipedia.org/wiki/Master_System). But I'm quite sure I spent less time playing and more time being the official pause-pusher for my older brother. You see, back in those days, the pause button was located on the console, and when the Sega Genesis came out, being able to pause the game _from the controller_ was an amazing feat. Similarly, being able to turn on your console from the controller is another amazing feat that we can't really live without these days (note: was there a console before the XBox 360/PS3 that you could turn on remotely? I can't think of one...).
 
-![error message showing the XBox needs to be on](images/IMG_0095-300x202.png "XBox SmartGlass error message XBox turned off")
+![error message showing the XBox needs to be on](images/IMG_0095.png "XBox SmartGlass error message XBox turned off")
 
 Anyway, one thing you can't do with your XBox SmartGlass is turn on the console. I can see the technical limitations that cause this, but that doesn't it make it any less lame. There are definitely applications where I could see exclusively using my iPad as the interface, and it would be great if I could power it up from there too.
 
@@ -33,7 +33,7 @@ In fact, this sort of thing seems to be a recurring theme. I'm expecting my tabl
 
 After getting my iPad connected to the XBox 360, the first thing I realize is how much more sense the XBox dashboard makes with touch controls. If you know anything about Windows 8, this might be a "duh" statement, but it's something that really hit me when trying to use a touch device to control the Metro-style interface. The big targets, expected use of swiping - it's good stuff.
 
-[![](images/IMG_00921-300x225.png "IMG_0092")](http://www.thatgamesux.com/wp-content/uploads/2012/11/IMG_00921.png)
+![](images/IMG_00921.png "IMG_0092")
 
 Unfortunately though, XBox SmartGlass doesn't actually let you use a touch interface on the XBox 360 dashboard. There are two distinct modes to the app - before you're connected to your console, the app lets you flip through a few tabs that are similar to the dashboard, but with way fewer options. Once connected to the console, you're presented with the screen at right - it's basically turning your tablet into a trackpad that you use to swipe around your console's dashboard. There are big colorful buttons on the corner that map to XBox controls, and tapping anywhere is a press of the "A" button.
 
@@ -51,13 +51,18 @@ On the iPad, I'm a huge fan of a remote control app called Remoter VNC because y
 
 This trackpad concept really marks the first time that I've seen a legitimately usable way to browse the web on a game console, on your TV. It does support pinch-to-zoom, but for some reason it doesn't really support two finger scrolling. Instead there is a vertical scroll area off to the right side of the screen. Two finger scrolling would be way better, as you could use it without taking your eyes off the TV. Although I should say...two finger scrolling does \*kinda\* work - it just also does some crazy zooming that might make you a little queasy:
 
-<iframe src="http://www.youtube.com/embed/CG4If_sdltg" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CG4If_sdltg?si=7CYPN1-DZRRJuod4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[![Internet Explorer screen on XBox SmartGlass](images/IMG_0094-300x225.png "XBox SmartGlass - IE screen")](http://www.thatgamesux.com/wp-content/uploads/2012/11/IMG_0094.png)One last thing with Internet Explorer - definitely it was designed with the controller in mind, so there are little tooltips scattered around indicating buttons to press for functions like "search". Except, once your XBox SmartGlass app is in Internet Explorer mode, the big colorful buttons are removed from your screen, and I'm not sure exactly what the procedure is if you wanted to simulate pressing one. It would be nice if these tooltips were "clickable" so you don't have to reach for your controller to do a search.
+
+One last thing with Internet Explorer - definitely it was designed with the controller in mind, so there are little tooltips scattered around indicating buttons to press for functions like "search". Except, once your XBox SmartGlass app is in Internet Explorer mode, the big colorful buttons are removed from your screen, and I'm not sure exactly what the procedure is if you wanted to simulate pressing one. It would be nice if these tooltips were "clickable" so you don't have to reach for your controller to do a search.
+
+![Internet Explorer screen on XBox SmartGlass](images/IMG_0094.png "XBox SmartGlass - IE screen")
 
 # XBox Music
 
-[![Second screen example using XBox Music](images/IMG_0093-300x225.png "XBox SmartGlass - psy gangam style ")](http://www.thatgamesux.com/wp-content/uploads/2012/11/IMG_0093.png)Finally, one of the big apps that I've seen demoed with the XBox SmartGlass app is XBox Music. From the little bit that I played with it, this is definitely where the awesome is at. The interface is really slick, and it's a great demo of a "second screen" situation - you can see more information on the artist in question on your tablet while the song is playing on your TV. It's one of those features that makes me want to have a party just so I can try it out.
+![Second screen example using XBox Music](images/IMG_0093.png "XBox SmartGlass - psy gangam style ")
+
+Finally, one of the big apps that I've seen demoed with the XBox SmartGlass app is XBox Music. From the little bit that I played with it, this is definitely where the awesome is at. The interface is really slick, and it's a great demo of a "second screen" situation - you can see more information on the artist in question on your tablet while the song is playing on your TV. It's one of those features that makes me want to have a party just so I can try it out.
 
 Usability-wise, I didn't play with this enough to really take much away from it. It appears to be quite a lot of fun though.
 
