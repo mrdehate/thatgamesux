@@ -39,7 +39,7 @@ If I had to pick a proverbial nit here, _technically_ there is one more tap tha
 
 ## Your Hidden Health Bar
 
-[![10000000 screenshot showing time tutorial screen](images/IMG_0129-225x300.png)](images/IMG_0129.png)
+![10000000 screenshot showing time tutorial screen](images/IMG_0129.png)
 
 Despite the RPG nature of the game, your hero doesn't have a traditional health bar. The only "life currency" in this game is time, and it's represented by your hero's horizontal position on the screen. As the screenshot here indicates, time is gained by killing monsters and opening chests, and is lost by standing still.
 
