@@ -18,17 +18,19 @@ tags:
   - "ux"
 ---
 
-[![Logo for Madden NFL 13 Social](images/madden-13-social-logo-300x97.png)](http://www.thatgamesux.com/wp-content/uploads/2013/07/madden-13-social-logo.png)Madden NFL 13 Social is a freemium title for iOS and Facebook that is some combination of the offensive side of the Madden NFL series and a collectible card game. But to be honest, I never really got far enough into the game to find out because of how ridiculous it begins.
+![Logo for Madden NFL 13 Social](images/madden-13-social-logo.png)
+
+Madden NFL 13 Social is a freemium title for iOS and Facebook that is some combination of the offensive side of the Madden NFL series and a collectible card game. But to be honest, I never really got far enough into the game to find out because of how ridiculous it begins.
 
 Being a Madden game from EA that is **free**, there's a certain expectation that advertisements and in-app-purchases will be plentiful, which is definitely true. True story, here's the first thing that greeted me when I opened Madden NFL 13 Social for the very first time:
 
-[![Need for Speed ad in Madden NFL 13 Social](images/madden-13-social-nfs-ad-1024x576.png)](http://www.thatgamesux.com/wp-content/uploads/2013/07/madden-13-social-nfs-ad.png)
+![Need for Speed ad in Madden NFL 13 Social](images/madden-13-social-nfs-ad.png)
 
-That's right, it's an advertisement - for an entirely different EA game. Even before you make it to the ad-laden main menu or even the title screen with a giant "connect to Facebook" button, the player has to get through an ad with the intention of taking them out of the game. While I'm sure it didn't hurt the sales of Need for Speed Most Wanted, it's definitely not a great way to get players excited about the game they just downloaded.
+That's right, it's an advertisement for an entirely different EA game. Even before you make it to the ad-laden main menu or even the title screen with a giant "connect to Facebook" button, the player has to get through an ad with the intention of taking them out of the game. While I'm sure it didn't hurt the sales of Need for Speed Most Wanted, it's definitely not a great way to get players excited about the game they just downloaded.
 
 The next time I opened the game up, I got a different ad:
 
-[![Madden ad in Madden NFL 13 Social](images/madden-13-social-madden-ad-1024x576.png)](http://www.thatgamesux.com/wp-content/uploads/2013/07/madden-13-social-madden-ad.png)
+![Madden ad in Madden NFL 13 Social](images/madden-13-social-madden-ad.png)
 
 So this one was at least for the game that I started to play, and didn't try to actively direct me out of the app. I appreciate that, I guess. However, being the second time I tried playing the game, I have no idea what on earth they are talking about in this ad. The only thing vaguely like a call to action here is "Pick a Card...". Maybe this would mean something to a seasoned player, but it sure didn't to me. If you're insisting on flooding your users with ads on launch of your game, at least make them reasonably good.
 
