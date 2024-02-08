@@ -18,13 +18,15 @@ tags:
   - "ux"
 ---
 
-[![Main menu of Super Stickman Golf 2](images/IMG_1168-300x169.png)](http://www.thatgamesux.com/wp-content/uploads/2013/04/IMG_1168.png)The original Super Stickman Golf by [Noodlecake Studios](http://www.noodlecake.com/) is one of my favorite mobile games ([links to stores available here](http://www.noodlecake.com/games/)). It's a simple yet challenging way to pass a few minutes of time. Everybody likes mini-golf, right? Super Stickman Golf 2 picks up right where the first left off, adding a few new features and a bunch of new in-app purchase options.
+![Main menu of Super Stickman Golf 2](images/IMG_1168.png)
+
+The original Super Stickman Golf by [Noodlecake Studios](http://www.noodlecake.com/) is one of my favorite mobile games ([links to stores available here](http://www.noodlecake.com/games/)). It's a simple yet challenging way to pass a few minutes of time. Everybody likes mini-golf, right? Super Stickman Golf 2 picks up right where the first left off, adding a few new features and a bunch of new in-app purchase options.
 
 Merits of the upgrade aside, there's one particular issue with the game that hasn't changed between the two versions, and it has caused me a tiny amount of grief a few times now. When playing a single player round, backing out to the main menu doesn't save the player's progress, and the game doesn't do anything to warn them of this either. Just like Microsoft Word prompts users before leaving changes unsaved, games always should tell the player before they lose progress.
 
 For the sake of completeness, let me walk you through the process. Let's say you're halfway through a round of Super Stickman Golf 2 and you want to head back to the menu. Why would you want to do this? One of the features added in SSG2 is turn-based multiplayer, so maybe you just got a notification that a game was updated and you want to check it out. You tap the pause button and get a standard issue looking menu with the following options:
 
-[![Pause menu in Super Stickman Golf 2](images/IMG_1164-1024x576.png)](http://www.thatgamesux.com/wp-content/uploads/2013/04/IMG_1164.png)
+![Pause menu in Super Stickman Golf 2](images/IMG_1164.png)
 
 From here, pressing the Main Menu button will take you directly back to the main menu, no questions asked, and all your progress in the round you were on has been lost. At least it's consistent, because Restart Course does the same thing.
 
