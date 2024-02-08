@@ -14,7 +14,9 @@ tags:
   - "ux"
 ---
 
-[![Title logo for Final Fantasy XIII](images/title-clean-300x198.jpg)](http://www.thatgamesux.com/wp-content/uploads/2013/03/title-clean.jpg)I like the [Paradigm system](http://finalfantasy.wikia.com/wiki/Paradigm) in Final Fantasy XIII. It's taken me a while to get used to it, but I've finally decided that Paradigms are a good thing. It's similar to the [Dresspheres](http://finalfantasy.wikia.com/wiki/Dressphere) from Final Fantasy X-2 though you're controlling all of your characters at once, as opposed to just one at a time.
+![Title logo for Final Fantasy XIII](images/title-clean.jpg)
+
+I like the [Paradigm system](http://finalfantasy.wikia.com/wiki/Paradigm) in Final Fantasy XIII. It's taken me a while to get used to it, but I've finally decided that Paradigms are a good thing. It's similar to the [Dresspheres](http://finalfantasy.wikia.com/wiki/Dressphere) from Final Fantasy X-2 though you're controlling all of your characters at once, as opposed to just one at a time.
 
 Setting up your Paradigms effectively is an important part of the game. If you're in the middle of a big battle and discover you don't have the right combination of roles, it might be a long and painful fight. Despite there being only six slots for Paradigms, it's still a minor pain to get everything setup correctly. And - here's my primary issue with the system - every time characters are switched in and out of your party, all your Paradigms are reset, and they all have to be configured again.
 
@@ -24,9 +26,9 @@ If you aren't sure what I'm talking about, a Paradigm is a set of roles that you
 
 The game calls a set of Paradigms a "Paradigm Deck", and here's what it looks like:
 
-[![Showing a full Paradigm Deck in Final Fantasy XIII](images/paradigms-1024x580.jpg)](http://www.thatgamesux.com/wp-content/uploads/2013/03/paradigms.jpg)
+![Showing a full Paradigm Deck in Final Fantasy XIII](images/paradigms.jpg)
 
-You can (and need to) switch Paradigms mid-battle, and having all this stuff setup beforehand and being able to efficiently change Paradigms is a big part of the game's strategy. If you're getting hammered, it's time to switch to a Paradigm that contains a medic (or two).
+You can (and need to) switch Paradigms mid-battle, and having all this stuff setup beforehand and being able to efficiently change Paradigms is a big part of the game's strategy. If you're getting hammered by an enemy, it's time to switch to a Paradigm that contains a medic (or two).
 
 It sounds simple, but there are a lot of combinations to choose from, and the game only allows 6 combinations to be setup at any one time. Each character only starts with three available roles, so figuring out what party members are needed adds another layer of complexity. Sure, it's not the most complicated mechanism in the world, but there's definitely decisions to be made, and I often find myself wishing I had more options in the middle of a battle.
 
@@ -40,7 +42,7 @@ For example, in my game at the moment I'm rolling with Fang, Lightning, and Vani
 
 Here's a short video showing Final Fantasy XIII crushing my Paradigm Deck when swapping between characters (and back):
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/r2eEr3GL7Cc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r2eEr3GL7Cc?si=-FENz98BdLKUhmUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For me, it's easy for RPGs to border on being tedious with all the fiddling that has to go on in the various menus. It's a double-edged sword I suppose, because managing my characters is part of what I love about the genre. Having to go back and re-setup Paradigms all the time though, is not fun at all, and it feels a little bit like backtracking. As a result, I avoid changing characters as much as possible - and that's too bad, considering I still spend a lot of time upgrading each one's stats and weapons.
 
