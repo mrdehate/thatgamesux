@@ -17,13 +17,15 @@ tags:
   - "ux"
 ---
 
-![logo for Lollipop Chainsaw](images/logo-300x194.jpeg)Lollipop Chainsaw is, undoubtedly, a high-score fest. [Destructoid's review](http://www.destructoid.com/review-lollipop-chainsaw-229321.phtml) compares it to the SEGA classics House of the Dead and Crazy Taxi - odd comparisons for a hack and slash game. But it's true, much like the game of Diablo III has barely started by the time you beat the story once, Lollipop Chainsaw begs to be played again and again so you can rack up a massive score.
+![logo for Lollipop Chainsaw](images/lollipopchainsaw-logo.jpeg)
+
+Lollipop Chainsaw is, undoubtedly, a high-score fest. [Destructoid's review](http://www.destructoid.com/review-lollipop-chainsaw-229321.phtml) compares it to the SEGA classics House of the Dead and Crazy Taxi - odd comparisons for a hack and slash game. But it's true, much like the game of Diablo III has barely started by the time you beat the story once, Lollipop Chainsaw begs to be played again and again so you can rack up a massive score.
 
 Okay, score is important in Lollipop Chainsaw, what's the big deal, and how is this related to usability at all? It's how the score is presented to the player. It looks like the game is producing some seriously fuzzy math, and it's an example of how important it is to mind your users' expectations.
 
 I snapped this screenshot at the end of stage 5. Take a close look at these numbers:
 
-[![The end-level score screen in Lollipop Chainsaw](images/130106-1338-37-1024x580.jpg)](http://www.thatgamesux.com/wp-content/uploads/2013/01/130106-1338-37.jpg)
+![The end-level score screen in Lollipop Chainsaw](images/130106-1338-37.jpg)
 
 The screenshot claims my score is 384,620. But if you add up the numbers that are above it, those don't total anywhere close to that - it's only 28,720, less than 10% of my total score.
 
