@@ -15,11 +15,13 @@ tags:
   - "ux"
 ---
 
-![final fantasy xiii - fireworks](images/130113-1629-171-300x168.jpg "final fantasy xiii - fireworks")Historically, I've had a problem with Final Fantasy games. For whatever reason, it takes me forever to finish them. Usually, I'll get about a third of the way in before I get distracted for a long time. Then when I return, I have totally forgotten the story, and it's really hard to get back into the groove of the game. Especially one as story driven as the Final Fantasy series is.
+![final fantasy xiii - fireworks](images/130113-1629-171.jpg "final fantasy xiii - fireworks")
+
+Historically, I've had a problem with Final Fantasy games. For whatever reason, it takes me forever to finish them. Usually, I'll get about a third of the way in before I get distracted for a long time. Then when I return, I have totally forgotten the story, and it's really hard to get back into the groove of the game. Especially one as story driven as the Final Fantasy series is.
 
 Finally, after enduring many years of "hey can someone explain the ending of this game to me" with Final Fantasy games, Final Fantasy XIII has made a simple change that has made me really happy. As soon as you start loading the game, recent plot events are relayed to you on the loading screen! Let's have a quick look at this small but much appreciated usability-enhancing feature.
 
-![final fantasy xiii - loading](images/vlcsnap-2013-01-15-18h40m40s129-1024x576.png)
+![final fantasy xiii - loading](images/vlcsnap-2013-01-15-18h40m40s129.png)
 
 This really makes me happy. The game is taking a loading screen - otherwise a waste of the user's time - and puts on it a couple of valuable paragraphs recapping the game's plot. For me it also has the benefit of being able to see some of these names in writing. When the game uses words that are both odd and very similar - "l'Cie", "fal'Cie", "Pulse fal'Cie", it helps me keep things straight to see them spelled out.
 
