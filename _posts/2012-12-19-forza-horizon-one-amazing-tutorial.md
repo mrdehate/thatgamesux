@@ -35,6 +35,7 @@ This is another race that's a little rigged to get the player's adrenaline racin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c2FDzCPpcVI?si=wWmOEVWYhpLYgo98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 ## Your first race (and first menu)
 
 ![Forza Horizon introduces you to Alice Hart, CEO of Horizon](images/alice-hi.jpg "alice hart - hi")
@@ -58,6 +59,7 @@ More visually appealing though, the game also shows off its dynamic day/night cy
 It's not on the same scale as the [riding home scene in Red Dead Redemption](http://www.youtube.com/watch?v=T8BFV5AJ2IQ), but it did remind me of that a little bit. It's a cool way to wrap up the game's tutorial section.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQrQBn8nhU4?si=HfW-eNkZIZ6ZghVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Conclusion
 
