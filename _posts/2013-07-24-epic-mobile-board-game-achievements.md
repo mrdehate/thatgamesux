@@ -22,9 +22,8 @@ Achievements can bring a whole different angle of entertainment to a game, and a
 
 We'll start with the most reasonable - first up is [San Juan](http://boardgamegeek.com/boardgame/8217/san-juan) ([iTunes link](https://itunes.apple.com/us/app/san-juan/id513228980?mt=8)), the card game version of the classic [Puerto Rico](http://boardgamegeek.com/boardgame/3076/puerto-rico). It employs a fairly predictable set of achievements, including these:
 
-[![Achievements screen in San Juan](images/IMG_1889-576x1024.png)](http://www.thatgamesux.com/wp-content/uploads/2013/07/IMG_1889.png)
+![Achievements screen in San Juan](images/IMG_1889.png)
 
- 
 
 So a little context here - every round in the game, each player chooses one of the roles listed above. Then to get all five of these achievements, that means you'd need at least 2,500 rounds of the game. At about 15 rounds per game, that works out to about 166 games. Of course, all roles are not chosen equally, so it will definitely be more than that (unless you're just farming for iOS achievements I suppose).
 
@@ -34,8 +33,7 @@ So a little context here - every round in the game, each player chooses one of t
 
 I picked up Ticket to Ride ([iTunes link](https://itunes.apple.com/us/app/ticket-to-ride/id432504470?mt=8)) for the iPad recently (I [previously talked about](http://www.thatgamesux.com/when-asynchronous-multiplayer-makes-sense/ "When Asynchronous Multiplayer Makes Sense") the questionable-but-still-a-good-time iPhone port), and it's a lot of fun. Some people though must really like placing trains though, as referenced by this achievement.
 
-[![The achievement screen in Ticket to Ride](images/IMG_1892-576x1024.png)](http://www.thatgamesux.com/wp-content/uploads/2013/07/IMG_1892.png)
-
+![The achievement screen in Ticket to Ride](images/IMG_1892.png)
  
 
 Yep, the top achievement for games played has you playing 20,000 games. That is a ton of games. But, I've discovered that it's not unheard of. Days of Wonder has an online version of Ticket to Ride, and some of the top-ranked players have over **30,000 matches!**  According to [this Gamasutra article](http://www.gamasutra.com/view/feature/135109/postmortem_days_of_wonders_.php) on the iOS game's development...
@@ -44,7 +42,7 @@ Yep, the top achievement for games played has you playing 20,000 games. That is 
 
 Okay, but that's a browser-based version. Is anybody playing 20,000 games on their iPad? That's about 138 days non-stop of Ticket to Ride (and I'm guessing some seriously calloused fingers). As of July 30th 2013, GameCenter reports three users have hit the mark, topping 20,000 games played.
 
-[![ticket to ride leaderboard](images/IMG_1893-576x1024.png)](http://www.thatgamesux.com/wp-content/uploads/2013/07/IMG_1893.png)
+![ticket to ride leaderboard](images/IMG_1893.png)
 
  
 
@@ -54,7 +52,8 @@ Goodness, that's a lot of games. Considering this game has been out for two year
 
 And finally, [Lost Cities](http://boardgamegeek.com/boardgame/50/lost-cities) (iTunes link) is a two-player card game adapted to iOS. It has two strong claims to shark-jumping Achievement notoriety. Here's the first:
 
-[![Achievements screen for Lost Cities showing achievements for points scored](images/IMG_1891-576x1024.png)](http://www.thatgamesux.com/wp-content/uploads/2013/07/IMG_1891.png)
+![Achievements screen for Lost Cities showing achievements for points scored](images/IMG_1891.png)
+
 
 Okay, "Gain 1 million points" might not have a lot of context if you aren't familiar with this game. A [BoardGameGeek post](http://boardgamegeek.com/thread/405890/average-score) lists the average points per game as about 37, which seems at least fairly accurate from my experience. Doing the math there, it would take about 27,000 games to make that happen. And at 10 minutes a game, that's about 187 days straight.
 
@@ -62,8 +61,7 @@ You'd think, after 27,000 games, you would be pretty well on your way to acing a
 
 First of all, there are separate achievements for online play vs offline, so you'd have to find at least one other person to play against 27,000 times to get the top score achievement. That's not a super big deal though in comparison to this:
 
-[![Games played achievement screen in Lost Cities](images/IMG_1890-576x1024.png)](http://www.thatgamesux.com/wp-content/uploads/2013/07/IMG_1890.png)
-
+![Games played achievement screen in Lost Cities](images/IMG_1890.png)
  
 
 Yeah, win 100,000 more online games - and there's another one, 100,000 or more games vs the computer. Well worth the 40 GameCenter points, for sure, right?
