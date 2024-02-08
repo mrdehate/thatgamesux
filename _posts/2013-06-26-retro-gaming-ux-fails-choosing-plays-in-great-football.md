@@ -36,7 +36,7 @@ And that's not counting the four seconds spent before play-calling starts, with 
 
 The only possible "advantage" of this is that in a two-player game, the players can try to fake out their opponent by pressing the _other_ button, which doesn't do anything. Indeed, there's no game which taught me more about making the Sega Master System controller as quiet as possible.
 
-![Play selection screen in Tecmo Bowl for the NES](images/tecmo-bowl.jpg)
+![Play selection screen in Tecmo Bowl for the NES](images/tecmo-bowl-300x280.jpg)
 > Calling plays in Tecmo Bowl for the NES
 
 The playcalling system in the NES's Tecmo Bowl was vastly superior when it was released in 1989, giving direct access to plays with a D-pad and button combination. Sure, it was only four plays (eight in 1991's Tecmo Super Bowl), but the eight plays in Great Football don't offer as much variety as you might hope.
