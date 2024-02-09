@@ -6,7 +6,7 @@ categories:
   - "pc"
 ---
 
-[![dota-2-logo](images/dota-2-logo.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/dota-2-logo.jpg)
+![dota-2-logo](images/dota-2-logo.jpg)
 
 I think it's fair to say that Valve's Dota 2 is an intimidating game for new players. There are a lot of choices to be made at every turn - over [100 heroes to pick from](http://thatgamesux.com/post/dota-2-i-need-a-random-hero), each with their own set of abilities, and lots of different items to purchase to fit a variety of strategies. Plus, it's a team-based player-vs-player game, so you need to have a good deal of teamwork to be successful.
 
@@ -14,7 +14,7 @@ Thankfully, Dota 2 has gained a number of features that are designed help new us
 
 ## What is a Hero Build?
 
-\[caption id="attachment\_973" align="alignnone" width="584"\][![So many heroes](images/Heroes-1024x574.png)](http://107.170.126.251/wp-content/uploads/2014/04/Heroes.png) So many heroes\[/caption\]
+![So many heroes](images/Heroes.png)
 
 A Hero Build is a walkthrough on how to play a particular hero. It doesn't teach you the basics of the game, but it does suggest what order to level up that particular hero's abilities in, what items to purchase, and when. Of course, there are lots of different opinions on what strategy to take for a given hero, so there are a ton of different builds out there created by different users.
 
@@ -24,13 +24,15 @@ The best part, is that all of the information is presented in-game. There is a G
 
 In-game, there's a menu option that will list popular Hero Builds for the character that you're using. Just clicking the build's checkbox will activate it.
 
-\[caption id="attachment\_974" align="alignnone" width="584"\][![While you don't need to read the build's text, the ability to filter builds by language is a handy option.](images/list-of-builds-full-1024x640.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/list-of-builds-full.jpg) While you don't need to read the build's text, the ability to filter builds by language is a handy option.\[/caption\]
+![While you don't need to read the build's text, the ability to filter builds by language is a handy option.](images/list-of-builds-full.jpg)
+> While you don't need to read the build's text, the ability to filter builds by language is a handy option
 
 ## Help with abilities
 
 Once activated, the build's suggestion for what ability to upgrade next will be highlighted in orange, and might even add a little text strategy tip as shown in the "Ability Guide" section below:
 
-\[caption id="attachment\_975" align="alignnone" width="425"\][![I appreciate the advice, even without proper punctuation.](images/ability-crop.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/ability-crop.jpg) I appreciate the advice, even without proper punctuation.\[/caption\]
+![I appreciate the advice, even without proper punctuation.](images/ability-crop.jpg)
+> I appreciate the advice, even without proper punctuation
 
 ## Help in the shop
 
@@ -38,7 +40,8 @@ The other important part of the Hero Build is suggesting items to buy in the sho
 
 The Hero Build gives a variety of suggestions for what items would be good to purchase for the hero, and usually, some general idea of what order too. The groups as shown below are customizable, though many do follow a similar format.
 
-\[caption id="attachment\_976" align="alignnone" width="869"\][![shop crop](images/shop-crop.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/shop-crop.jpg) Not shown: you can also on the fly add your own items to the build, in case you disagree an item or two.\[/caption\]
+![shop crop](images/shop-crop.jpg)
+> Not shown: you can also on the fly add your own items to the build, in case you disagree an item or two
 
 ## Why this is awesome
 
