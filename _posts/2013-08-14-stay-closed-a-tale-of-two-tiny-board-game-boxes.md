@@ -20,15 +20,17 @@ On one hand, we have [Dungeon Roll](http://boardgamegeek.com/boardgame/138788/du
 
 The [Kickstarter campaign for Dungeon Roll](http://www.kickstarter.com/projects/michaelmindes/dungeon-roll-a-dicey-dungeon-delve) (by Tasty Minstrel Games) was, to put it mildly, very successful. They raised a little over $250,000, surpassing their $15,000 goal _fairly_ easily. It's got custom dice and is in a dungeon, so I was powerless to avoid it. It also comes in an attractive treasure chest shaped box:
 
-[![dungeon roll box](images/IMG_2020-e1376445033102-1024x768.jpg)](http://www.thatgamesux.com/wp-content/uploads/2013/08/IMG_2020.jpg)
+![dungeon roll box](images/IMG_2020-e1376445033102.jpg)
 
-[![boxee-box-front](images/boxee-box-front-300x203.jpg)](http://www.thatgamesux.com/wp-content/uploads/2013/08/boxee-box-front.jpg)It is attractive, but it's really annoying to put on your shelf. And I need all the room I can on my shelf, of course. It reminds me of the original Boxee box and its "sinking cube" shape that demanded it was on the top of your entertainment stack. It looks good, sure, though it just makes life harder than it needs to be.
+It is attractive, but it's really annoying to put on your shelf. And I need all the room I can on my shelf, of course. It reminds me of the original Boxee box and its "sinking cube" shape that demanded it was on the top of your entertainment stack. It looks good, sure, though it just makes life harder than it needs to be.
+
+![boxee-box-front](images/boxee-box-front.jpg)
 
 Good news though, the contents of your tiny treasure chest are secure - which is especially good, because there are quite a few tiny cardboard tokens that come with Dungeon Roll, and I would like to avoid losing. The box features a tiny magnet that helps keep the lid closed:
 
-[![IMG_2022](images/IMG_2022-e1376445062795-1024x768.jpg)](http://www.thatgamesux.com/wp-content/uploads/2013/08/IMG_2022.jpg)I love these kinds of touches! Plus, magnets!
+![IMG_2022](images/IMG_2022-e1376445062795.jpg)
 
-So while it must live on top of my stack of games, it does travel well.
+I love these kinds of touches! Plus, magnets! So while it must live on top of my stack of games, it does travel well.
 
 ## The Great Heartland Hauling Co.
 
@@ -36,11 +38,11 @@ The Great Heartland Hauling Co. (from Dice Hate Me Games) [is also from Kickstar
 
 It's true, the game does come in a very petite, portable-looking box:
 
-[![the great heartland hauling co box](images/IMG_2026-e1376446150903-1024x768.jpg)](http://www.thatgamesux.com/wp-content/uploads/2013/08/IMG_2026-e1376446150903.jpg)
+![the great heartland hauling co box](images/IMG_2026-e1376446150903.jpg)
 
 It's small, it would definitely fit into a bag or some other portable-sized container. And it's a relatively normal size, so it's super easy to find a nook in the cabinet for it to live in harmony with all the other square boxes. But check out how full this box is with components:
 
-[![IMG_2028](images/IMG_2028-e1376446127898-1024x768.jpg)](http://www.thatgamesux.com/wp-content/uploads/2013/08/IMG_2028.jpg)
+![IMG_2028](images/IMG_2028-e1376446127898.jpg)
 
 Considering the lack of depth in the box and how the lid doesn't fit on super tight, this is a recipe for disaster. I know this for a fact because I've tried to travel with this game twice, and both times the box opened in transit and tiny cubes spilled out everywhere. Magnets would probably help this situation (as they generally do), but perhaps a slightly different/bigger shaped box would have been equally effective. Or, just a lid that fits tightly.
 
