@@ -6,9 +6,11 @@ categories:
   - "role-playing"
 ---
 
-[![lotro logo](images/lotro-logo.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/lotro-logo.jpg)I recently started playing [Lord of the Rings Online](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings_Online) (also known as LotRO), an MMO from Turbine that was originally released _way_ back in 2007. I really don't have very much experience with MMOs - I played a little bit of the first Guild Wars back in the day, but I didn't get real far.
+![lotro logo](images/lotro-logo.jpg)
 
-I do, however, have a lot of experience with world maps - see posts on [Final Fantasy XIII](http://thatgamesux.com/post/final-fantasy-xiii-where-is-north), [Mass Effect 2](http://thatgamesux.com/post/final-fantasy-xiii-where-is-north), [Borderlands 2](http://thatgamesux.com/post/final-fantasy-xiii-where-is-north), [The Witcher 2](http://thatgamesux.com/post/getting-lost-in-the-witcher-2-how-not-to-build-a-map), and even one on [different ways to access the world map](http://thatgamesux.com/post/final-fantasy-xiii-where-is-north). Despite the game originally coming out 6 years ago, I'm still nominating Lord of the Rings Online to have the worst world map ever.
+I recently started playing [Lord of the Rings Online](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings_Online) (also known as LotRO), an MMO from Turbine that was originally released _way_ back in 2007. Fully disclosure, I don't have very much experience with MMOs - I played a little bit of the first Guild Wars back in the day, but I didn't get real far.
+
+I do, however, have a lot of experience whining about world maps! See posts on [Final Fantasy XIII](http://thatgamesux.com/post/final-fantasy-xiii-where-is-north), [Mass Effect 2](http://thatgamesux.com/post/final-fantasy-xiii-where-is-north), [Borderlands 2](http://thatgamesux.com/post/final-fantasy-xiii-where-is-north), [The Witcher 2](http://thatgamesux.com/post/getting-lost-in-the-witcher-2-how-not-to-build-a-map), and even one on [different ways to access the world map](http://thatgamesux.com/post/final-fantasy-xiii-where-is-north). Despite the game originally coming out 6 years ago, I'm still nominating Lord of the Rings Online to have the worst world map ever.
 
 I've limited myself to three major beefs with this map:
 
@@ -18,7 +20,7 @@ I've limited myself to three major beefs with this map:
 
 Let's have a look at the map first:
 
-## ![lotr Breeland map - small](images/lotr-Breeland-map-small.jpg)
+![lotr Breeland map - small](images/lotr-Breeland-map-small.jpg)
 
 ## Beef 1: Quest Markers
 
@@ -34,7 +36,7 @@ The idea for fixing this isn't complicated - just make the rings easier to see.
 
 There are a lot of maps in this game, which I do appreciate. But LotRO doesn't make it obvious what areas are covered in a more detailed map. Hovering over areas of the map sometimes reveals some crosshairs, indicating there's more map to be found. Check it out, in the lower-right side of this map:
 
-[![lotr breeland highlight - small](images/lotr-breeland-highlight-small.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/lotr-breeland-highlight-small.jpg)
+![lotr breeland highlight - small](images/lotr-breeland-highlight-small.jpg)
 
 In the lower-right side, you'll see the crosshairs along with a little tooltip with the location. Most of the time, these expanded maps are in big cities. Like Bree, in the center of the map - there's another map for those details. But this one that I'm hovering over in this screenshot is essentially a random section of map. There's no [information scent](http://en.wikipedia.org/wiki/Information_foraging) here to let people know there might be something else to look at.
 
@@ -44,7 +46,7 @@ Of course, pointing at it with your mouse isn't exactly uncommon. Still, an icon
 
 Zooming out on the map is performed by right clicking on the mouse. It's one of those things that makes sense (zoom in with a left click, zoom out with a right click), but wasn't immediately intuitive for me. And the map does tell you to right click to zoom out. But that help text is in a different spot on each map. See this map of Bree:
 
-[![lotr Bree town map - small](images/lotr-Bree-town-map-small.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/lotr-breeland-highlight-small.jpg)
+![lotr Bree town map - small](images/lotr-Bree-town-map-small.jpg)
 
 While the active quest box is in the same spot, the map title, zoom out help text, and compass rose are all in different spots here. Sure, this is probably a little bit more thematic. But it also introduces a problem where your quest tracker could be covering any of these things. And having that help text moving around on each page just looks goofy.
 
