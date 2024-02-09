@@ -8,11 +8,11 @@ categories:
   - "sports"
 ---
 
-[![logo](images/logo.png)](http://www.ootpdevelopments.com/out-of-the-park-baseball/)
+![logo](images/logo.png)
 
 [Out of the Park Baseball](http://www.ootpdevelopments.com/out-of-the-park-baseball/) (from Out of the Park Developments) is a PC-based baseball simulation that started back in 1999. [iOOTP 2013](http://www.ootpdevelopments.com/iootp-baseball-game/) is the most recent iteration of the franchise that was released for iOS in the spring of 2013.
 
-Putting a fully-featured, text-based baseball sim on the screen of a mobile phone is no small task. All the "gameplay" of iOOTP 2013 is essentially done through a series of menus and tables. It's complicated for sure, but so is baseball, and that's kinda the whole point.
+Putting a fully-featured, text-based baseball sim on the screen of a mobile phone is no small task. All the "gameplay" of iOOTP 2013 is essentially done through a series of menus and tables. It's way closer to Microsoft Excel than Madden Football. It's complicated for sure, but honestly so is running a baseball team, and that's kinda the whole point.
 
 When dealing with a big menu structure in your game, website, webapp, TV, ATM machine, car wash, or anywhere else, one of the keys to making it usable is consistency. If whatever the interface is keeps changing on your users, it's going to be frustrating. And in iOOTP 2013, there are a few places that are frustrating because of needless inconsistency in the menus - let's take a look.
 
@@ -20,15 +20,15 @@ When dealing with a big menu structure in your game, website, webapp, TV, ATM ma
 
 One thing that's fairly consistent throughout most of the menus in iOOTP 2013 is the toolbar that's on the bottom of the screen. It contains the current in-game date, along with buttons for "View", "Action", and "Back".
 
-[![toolbar](images/toolbar.png)](http://107.170.126.251/wp-content/uploads/2014/04/toolbar.png)
+![toolbar](images/toolbar.png)
 
 Usually, View acts as a filter, modifying exactly what data is on your screen. If you're looking at your roster, you'll use it to show only pitchers, for example. In this screenshot, you can switch between which lineup you're looking at - not exactly a filter, but it's close enough:
 
-[![view menu](images/view-menu-1024x576.png)](http://107.170.126.251/wp-content/uploads/2014/04/view-menu.png)
+![view menu](images/view-menu.png)
 
 The Action menu holds a variety of, well, actions - like offering a player a contract extension, or in the screenshot below, having the game generate an optimal lineup.
 
-[![action menu](images/action-menu-1024x576.png)](http://107.170.126.251/wp-content/uploads/2014/04/action-menu.png)
+![action menu](images/action-menu.png)
 
 However, the View and Action menus don't work exactly the same way. In the View screenshot above, you'll see there is a "Cancel" button at the bottom. In every View menu, the user needs to press the Cancel button to get back to the previous screen. The Action menu doesn't have such a button - tapping anywhere outside the overlay will make it go away.
 
@@ -40,11 +40,11 @@ Also on the toolbar is the "Back" button. Most of the time, this is quite helpfu
 
 Unfortunately, sometimes iOOTP deems certain sections of the game to be exempt from the same back behavior. One example is the "League News" section. On the main League News page, a list of news articles appears like so:
 
-[![news home](images/news-home-1024x576.png)](http://107.170.126.251/wp-content/uploads/2014/04/news-home.png)
+![news home](images/news-home.png)
 
 Tapping on a headline, of course brings up the full article:
 
-[![news detail](images/news-detail-1024x576.png)](http://107.170.126.251/wp-content/uploads/2014/04/news-detail.png)
+![news detail](images/news-detail.png)
 
 Now, notice the two back buttons on this screen - in the upper left is the back button that works inside the news section. So tapping the upper left back button brings the user back to the main news page. The "normal" back button in the bottom toolbar brings the user to whatever page they were on before the news home page.
 
@@ -58,11 +58,11 @@ There are a lot of tables in iOOTP, as to be expected. The odd thing is, they do
 
 Here's the screen for my minor league roster:
 
-![minor league roster](images/minor-league-roster-1024x576.png)
+![minor league roster](images/minor-league-roster.png)
 
 And here's the same view for my major league roster:
 
-[![active roster](images/active-roster-1024x576.png)](http://107.170.126.251/wp-content/uploads/2014/04/active-roster.png)
+![active roster](images/active-roster.png)
 
 It's the same set of columns, just one has pagination, and the other scrolls. The difference though, is the number of records displayed. Through some unscientific testing, I've found the limit to be about 50 - so if there are more than 50 rows displayed, the game switches to a paginated view. Less than 50, you've got scrolling.
 
