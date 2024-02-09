@@ -14,7 +14,9 @@ tags:
   - "ux"
 ---
 
-[![Cover of Hotline Miami](images/Hotline_Miami_cover-213x300.png)](http://www.thatgamesux.com/wp-content/uploads/2013/09/Hotline_Miami_cover.png)Giant Bomb [defines "backtracking"](http://www.giantbomb.com/backtracking/3015-239/), in part, as the following:
+![Cover of Hotline Miami](images/Hotline_Miami_cover.png)
+
+Giant Bomb [defines "backtracking"](http://www.giantbomb.com/backtracking/3015-239/), in part, as the following:
 
 > "Backtracking is often a derogatory term used to describe a situation in a game where the player must return to previously encountered locations in order to continue advancing the game"
 
@@ -24,7 +26,7 @@ Hotline Miami ([Steam link](http://store.steampowered.com/app/219150/)) is a sup
 
 If you haven't played Hotline Miami before, the basics are simple. You arrive in a building, kill everyone inside, then leave. As you're making your way through the building, intense electronic music plays, pushing you onward. Once you've reached the end of the building, the music stops, and you have to walk back out to the car, through all the carnage that you just caused. Here's a quick video of exiting one of the missions (warning - graphic pixel-violence is in this video):
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/Sa3p3KFN7pc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sa3p3KFN7pc?si=yq0qyyzTOyTztSKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In most games, when an enemy dies, they just disappear. In Call of Duty, you don't see bodies stacked up on the battlefield. But in Hotline Miami, all of the blood and bodies stick around exactly where you left them, and it's a powerful mechanic to really get the player to notice all the killing that's been going on. And that's exactly the point - without going into details of the plot, the whole purpose of all the violence in Hotline Miami is a commentary on violence in the gaming industry. There's [a great Gamasutra article](http://www.gamasutra.com/blogs/RamiIsmail/20121029/180408/Why_Hotline_Miami_is_an_important_game.php) on the topic if you want the full-on spoiler-riffic details.
 
