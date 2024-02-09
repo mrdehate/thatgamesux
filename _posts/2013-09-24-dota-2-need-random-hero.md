@@ -13,11 +13,13 @@ That said, even e-Sports superstars were new once, and it sure wouldn't hurt for
 
 Dota 2 is a five-on-five game, with each player picking a hero at the start. As of the moment, there are over [100 heroes](http://www.dota2.com/heroes/) available! Here is the hero selection screen:
 
-\[caption id="attachment\_926" align="alignnone" width="584"\][![Hero selection screen in DOTA 2](images/character-selector-1024x640.png)](http://107.170.126.251/wp-content/uploads/2014/04/character-selector.png) Hero selection screen in DOTA 2\[/caption\]
+![Hero selection screen in DOTA 2](images/character-selector.png)
+> Hero selection screen in DOTA 2
 
 The upper-left is one team's heroes, and the upper-right is the other team's squad. Easy enough. There's a nifty "Cover Flow" like structure in the middle with what looks like baseball cards for each hero. It's not the most efficient way to display heroes (even Apple has given up on their Cover Flow), but there's an option for a grid in the lower-right if you prefer. Let's look a little more closely at the hero though, that's what we really want to focus on.
 
-\[caption id="attachment\_927" align="alignnone" width="550"\][![Selecting a hero](images/pick-yourself-cropped.png)](http://107.170.126.251/wp-content/uploads/2014/04/pick-yourself-cropped.png) Selecting a hero\[/caption\]
+![Selecting a hero](images/pick-yourself-cropped.png)
+> Selecting a hero
 
 In the upper-right, the hero's primary attribute is listed. Strength, intelligence, or agility, this part is pretty straightforward. The one pictured here is strength, so there's a fist, no big deal. Underneath the primary attribute, there are a few icons that list other general attributes of the hero. This hero is listed as "durable", that he will "last longer in a teamfight". This is great information to know, although the icons are something you'll need to learn for sure.
 
@@ -29,7 +31,8 @@ Something not explicitly listed for each hero (although it is in a filter at the
 
 Anyway, that's not even the point of this article. For me, I like to experience a variety of heroes, so I make use of the "pick a random hero feature". You even get a bonus 250 gold if you're letting the game lock in your hero for you at random. So when you pick a hero at random, here's what you get:
 
-\[caption id="attachment\_928" align="alignnone" width="584"\][![A randomly selected hero](images/random-character-1024x640.png)](http://107.170.126.251/wp-content/uploads/2014/04/random-character.png) A randomly selected hero\[/caption\]
+![A randomly selected hero](images/random-character.png)
+> A randomly selected hero
 
 Notice the distinct lack of information here about the hero. The only way to even get the name of the hero that you got at random is by looking in the log. All that information that was listed above, it's not on this page anymore. You can put items on your hero, sure, but that's all.
 
