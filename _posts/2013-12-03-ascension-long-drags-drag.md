@@ -7,7 +7,9 @@ categories:
   - "mobile"
 ---
 
-[![ascension_logo](images/ascension_logo-300x159.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/ascension_logo.jpg)Ascension: Chronicle of the Godslayer is [a deckbuilding card game](http://boardgamegeek.com/boardgame/69789/ascension-chronicle-of-the-godslayer) that's been ported to iOS ([iTunes link](https://itunes.apple.com/us/app/ascension-chronicle-godslayer/id441838733)) and is on its way to PC and Android. If [Dominion](http://boardgamegeek.com/boardgame/36218/dominion) and [Magic: the Gathering](http://boardgamegeek.com/boardgame/463/magic-the-gathering) had a baby, this is probably what it would look like.
+![ascension_logo](images/ascension_logo.jpg)
+
+Ascension: Chronicle of the Godslayer is [a deckbuilding card game](http://boardgamegeek.com/boardgame/69789/ascension-chronicle-of-the-godslayer) that's been ported to iOS ([iTunes link](https://itunes.apple.com/us/app/ascension-chronicle-godslayer/id441838733)) and is on its way to PC and Android. If [Dominion](http://boardgamegeek.com/boardgame/36218/dominion) and [Magic: the Gathering](http://boardgamegeek.com/boardgame/463/magic-the-gathering) had a baby, this is probably what it would look like.
 
 If you're not familiar with any of these, that's okay. The point is, it's a card game that has a lot of stuff on the screen - there are a lot of moving parts. The developers are trying to take a game that is played on a table and squish it into an iPhone, and that's not always an easy task.
 
@@ -15,7 +17,7 @@ Ascension, like a lot of games, only displays in landscape mode. It has made me 
 
 Here's what the game looks like:
 
-[![IMG_2862](images/IMG_2862-1024x576.png)](http://107.170.126.251/wp-content/uploads/2014/04/IMG_2862.png)
+![IMG_2862](images/IMG_2862.png)
 
 Fully understanding the rules isn't critical here - the important part is this: the player wants to drag cards that are highlighted in red or green to the "Void" (upper-right) or the discard pile (lower-right), respectively. Dragging cards to the discard pile adds them to the player's deck, while dragging monsters to the void "defeats" them, granting victory points.
 
@@ -25,7 +27,7 @@ So, it's a bummer that these two drop zones are in the far corners of the screen
 
 And this is where your success really depends on how you're holding the phone. For me, in landscape mode I usually cradle the phone with both hands and use either thumb to tap the screen. Like so:
 
-[![IMG_2863_ed](images/IMG_2863_ed-1024x585.jpg)](http://107.170.126.251/wp-content/uploads/2014/04/IMG_2863_ed.jpg)
+![IMG_2863_ed](images/IMG_2863_ed.jpg)
 
 Holding the phone in this way makes it ridiculously hard to make this cross-screen drag. It's a great reminder to **always test your software on real hardware**. This is an action that would work wonderfully in a simulator with a mouse.
 
