@@ -12,7 +12,9 @@ Since this was the first Civ title (excluding [Civ Revolution](http://thatgames
 
 ## The Tutorial
 
-Let's start by checking out the tutorial screen. [![civv-tutorial main screen](images/tutorial-main-screen-1024x653.png)](http://thatgamesux.com/wp-content/uploads/2013/10/tutorial-main-screen.png)
+Let's start by checking out the tutorial screen. 
+
+![civv-tutorial main screen](images/tutorial-main-screen.png)
 
 The giant button at the top, that's what I chose. It's basically a normal game, but with all the help advisors turned on, constantly giving you advice on what's going on.
 
@@ -22,7 +24,7 @@ Okay, so I started playing a game, reading through all the various help texts, a
 
 The resolution to this bug is, of course, quit and restart. So I set about to try and save my game. Clicking on the menu link in the upper right brings me up the menu...suspiciously absent any save functionality:
 
-[![civv-in game menu](images/in-game-menu-1024x653.png)](http://thatgamesux.com/wp-content/uploads/2013/10/in-game-menu.png)
+![civv-in game menu](images/in-game-menu.png)
 
 ## Save Absent
 
@@ -36,7 +38,7 @@ A much better solution would be to have the save command there, just disabled wi
 
 Here's where things get even more confusing. After clicking around on other things that I knew shouldn't contain the save command (which was really hard, mind you, since I didn't have a mouse cursor), I gave up and clicked "Exit to Main Menu". And I got this message:
 
-[![civv-are you sure](images/are-you-sure-cropped.png)](http://thatgamesux.com/wp-content/uploads/2013/10/are-you-sure-cropped.png)
+![civv-are you sure](images/are-you-sure-cropped.png)
 
 Notice the part that says "...without saving your game". This message totally implies that you can, in fact, save your game.
 
@@ -44,7 +46,7 @@ Additional bonus complaint: this confirmation appears every time you quit to mai
 
 I hunted around a little bit more and discovered this tooltip that appears when you hover over the "menu" button in-game:
 
-[![civv-save hover-cropped](images/save-hover-cropped.png)](http://thatgamesux.com/wp-content/uploads/2013/10/save-hover-cropped.png)
+![civv-save hover-cropped](images/save-hover-cropped.png)
 
 Well this rather directly tells me that I can save my game, when in fact, that option isn't available at all.
 
