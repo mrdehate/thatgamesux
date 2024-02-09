@@ -30,7 +30,7 @@ Making it even worse, the quit option doesn't stand out from the rest of the men
 
 If this is the route that Cellar Door Games is going to take, at least put a little empty space to separate it out. Quitting is an extremely important action, while the other settings probably will never be touched. For example, here's what I would do as a Steve Krug-inspired "[The Least You Can Do](http://www.tributemedia.com/blog/andy-harl/steve-krug-least-you-can-do-about-usability)" usability change:
 
-[![options screen - my edit](images/options-screen-my-edit-1024x556.png)
+![options screen - my edit](images/options-screen-my-edit.png)
 
 ## Conclusion
 
