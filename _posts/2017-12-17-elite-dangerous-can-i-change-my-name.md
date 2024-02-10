@@ -16,7 +16,8 @@ tags:
 
 I picked up [Elite: Dangerous](http://store.steampowered.com/app/359320/Elite_Dangerous/) recently in a Steam sale, as it's a game I've threatened to get excited about for a while now. Upon booting it up the first time, I found one of the most difficult decisions facing me: what to name my character. And Elite: Dangerous leaves out some pertinent information that would help inform that decision.
 
-\[caption id="attachment\_1853" align="aligncenter" width="584"\][![](images/20171217171958_1-1024x576.jpg)](http://thatgamesux.com/wp-content/uploads/2017/12/20171217171958_1.jpg) Commander Tad Cooper, I believe in you.\[/caption\]
+![](images/20171217171958_1.jpg)
+> Commander Tad Cooper, I believe in you
 
 Naming characters is always something I struggle with - you know, I want it to be witty, but not something I'm going to regret later. And this decision is made worse in situations like these, because Elite: Dangerous doesn't give the player enough information about how weighty this decision actually is.
 
