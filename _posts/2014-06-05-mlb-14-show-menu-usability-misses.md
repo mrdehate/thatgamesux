@@ -22,9 +22,7 @@ Along the way, MLB 14 has some difficulties in the way of usability. I almost e
 
 ## Press Option to Enter
 
-[![MLB® 14 The Show™_20140510001453](images/title-1024x576.jpg)](http://thatgamesux.com/wp-content/uploads/2014/06/title.jpg)
-
- 
+![MLB® 14 The Show™_20140510001453](images/title.jpg)
 
 Title screens. I've complained about [how useless these are before](http://thatgamesux.com/title-screens-because-you-arent-done-waiting-just-yet/ "Title Screens: Because You Aren’t Done Waiting Just Yet"), and this one is no different, so I'll make it brief. Load times are really long in MLB 14: The Show, so after waiting a long time to get to the title screen, I have to press a button, then wait some more for the real menu to load. It's dumb. Just take me to the menu.
 
@@ -32,7 +30,9 @@ Okay, something new - lets talk about the "Options" button. On the PS4's DualSho
 
 ## Naming the Roster Save File
 
-[![MLB® 14 The Show™_20140510001519](images/roster-save-name-300x168.jpg)](http://thatgamesux.com/wp-content/uploads/2014/06/roster-save-name.jpg)It's fairly common for games to ask the user to name some kind of save file. I'm guessing that the majority of the time, nobody ever needs to change the default name. Either it's named well enough by default, or you'll never have more than one of them. If you happen to have two gamers in the same household, sharing the same console, I can definitely see the use case there of changing the name of your save file.
+![MLB® 14 The Show™_20140510001519](images/roster-save-name.jpg)
+
+It's fairly common for games to ask the user to name some kind of save file. I'm guessing that the majority of the time, nobody ever needs to change the default name. Either it's named well enough by default, or you'll never have more than one of them. If you happen to have two gamers in the same household, sharing the same console, I can definitely see the use case there of changing the name of your save file.
 
 However, what I don't see the use case for, is renaming the MLB roster update file. Periodically MLB 14: The Show will ask the user to download a new, updated roster file that matches the current MLB rosters. It's treated just like any other save file - so the user is asked to name it. And I always save over the last roster file, and it always asks me to confirm that I'm overwriting it, which always makes me nervous that I'm accidentally saving over the wrong thing.
 
@@ -44,13 +44,15 @@ If you're saving a custom roster file, I get it - for sure, you want to name tha
 
 **Mandatory Installation**
 
-\[caption id="attachment\_1009" align="alignright" width="202"\][![MLB® 14 The Show™_20140510001733](images/install-crop.jpg)](http://thatgamesux.com/wp-content/uploads/2014/06/install-crop.jpg) This is a tiny indicator in the upper-left corner of the main menu\[/caption\]
+![MLB® 14 The Show™_20140510001733](images/install-crop.jpg)
+
+This is a tiny indicator in the upper-left corner of the main menu\[/caption\]
 
 Finally, I'm in the game's main menu. What the game doesn't tell you, is that there's a mandatory installation that has to take place before you can do anything. You can troll around the menus, but not actually play the game. This is interesting - would I rather just sit at a blank installation screen with just a progress bar? Probably not. So I appreciate the effort here.
 
 Two things though - first, it took me a while to figure out what was going on. I totally missed the tiny indicator in the above picture, and instead, as I tried to start a game, I got the following message:
 
-![MLB® 14 The Show™_20140510002215](images/not-finished-downloading-1024x576.jpg)
+![MLB® 14 The Show™_20140510002215](images/not-finished-downloading.jpg)
 
 "The required data has not finished downloading" really had me confused. I had purchased the disc copy of the game, what does this mean? A more straightforward message - oh you know, like anything that actually mentions the installation that's going on - really would have helped.
 
@@ -68,9 +70,7 @@ Regardless, I have no idea why the demo mode exists in the first place, and it o
 
 The player creation process in the Road to the Show mode is quite in-depth. Here I was just starting out, putting in my player's first name. I accidentally pressed the wrong button though while the field was blank, and got this classic error message:
 
-[![MLB® 14 The Show™_20140521230152](images/error-message-1024x576.jpg)](http://thatgamesux.com/wp-content/uploads/2014/06/error-message.jpg)
-
- 
+![MLB® 14 The Show™_20140521230152](images/error-message.jpg)
 
 First of all, I'd argue that this shouldn't ever have given me an error message. Either don't let the user leave the field without entering a character, or show an error message when trying to advance past the character creation process.
 
@@ -80,7 +80,7 @@ But okay, if you want to have an error message, "The naming operation was ignore
 
 Right on the first page of the character creation screen, there's an option for "U.S. Born". I don't have any idea what difference this would make, but I also don't know how to change the value. It's grayed out, and I have no idea why.
 
-[![MLB® 14 The Show™_20140511154905](images/us-born-is-yes-1024x576.jpg)](http://thatgamesux.com/wp-content/uploads/2014/06/us-born-is-yes.jpg)
+![MLB® 14 The Show™_20140511154905](images/us-born-is-yes.jpg)
 
 Disabled fields aren't generally a bad thing; it's just important that it's clear to the user **_why_** it's disabled, and it should be easy to make the control available.
 
@@ -88,9 +88,7 @@ Disabled fields aren't generally a bad thing; it's just important that it's cle
 
 After my character was drafted into an MLB organization, I got this very mysterious prompt:
 
-[![MLB® 14 The Show™_20140511162643](images/back-to-school-1024x576.jpg)](http://thatgamesux.com/wp-content/uploads/2014/06/back-to-school.jpg)
-
- 
+![MLB® 14 The Show™_20140511162643](images/back-to-school.jpg)
 
 Without any more information about what these options do, how could I possibly make a good decision here (and bonus question: what does "cancel" do)? I haven't the foggiest idea what happens if you go to a 3-year university vs a 1-year junior college vs signing with the team, and the game never explains it at all.
 
@@ -102,7 +100,7 @@ I have the same question in every sports game. I finish a game of some type of o
 
 MLB 14: The Show has what looks like a helpful feature, in that it has a little checkbox on the save screen indicating if you need to save or not:
 
-[![MLB® 14 The Show™_20140526233613](images/need-to-save-1024x576.jpg)](http://thatgamesux.com/wp-content/uploads/2014/06/need-to-save.jpg)
+![MLB® 14 The Show™_20140526233613](images/need-to-save.jpg)
 
 This looks great! You save your game, the checkbox goes away, and I get that happy feeling that I am not losing my sweet, sweet progress. Except that the checkbox is _**always** **checked.**_ That's right, if you save your game, leave the save screen and immediately come back - the "need to save" box is checked again. So basically, it's totally worthless.
 
