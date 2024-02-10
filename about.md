@@ -2,6 +2,7 @@
 layout: page
 title: "About"
 ---
+![tgux](images/tgux-logo.svg)
 
 Please note: This blog ran primarily from 2012 - 2014, with a few oddball posts after that. Active development on this project has been wound down, but is archived here for posterity. 
 
