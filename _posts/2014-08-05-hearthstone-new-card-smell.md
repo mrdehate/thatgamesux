@@ -14,7 +14,9 @@ tags:
   - "ux"
 ---
 
-![Hearthstone_Logo](images/Hearthstone_Logo.png)Blizzard's [Hearthstone](http://us.battle.net/hearthstone/en/) (full name, Hearthstone: Heroes of Warcraft) is a digital collectible card game that's currently out on Mac, PC, and iPad. The obvious comparison is to the biggest CCG around, Magic: The Gathering. While MTG is a physical game that also has a digital component, Hearthstone is a purely digital game, designed to be purely digital. That poses both interesting challenges and opportunities.
+![Hearthstone_Logo](images/Hearthstone_Logo.png)
+
+Blizzard's [Hearthstone](http://us.battle.net/hearthstone/en/) (full name, Hearthstone: Heroes of Warcraft) is a digital collectible card game that's currently out on Mac, PC, and iPad. The obvious comparison is to the biggest CCG around, Magic: The Gathering. While MTG is a physical game that also has a digital component, Hearthstone is a purely digital game, designed to be purely digital. That poses both interesting challenges and opportunities.
 
 Being a _collectible_ card game, a huge hook of both of these game is of course, getting new cards. A recovering former MTG player myself, there is nothing quite like the experience of opening a new booster pack of cards. And while Hearthstone doesn't reproduce that new card smell, it does go out of its way to try and evoke the same feelings as the real thing.
 
@@ -24,25 +26,30 @@ So, packs of cards are great. But in a digital game like Hearthstone, there's n
 
 That suspense means there are thousands of videos on YouTube of players opening packs of cards. Here's a quick one to give you a rundown of the opening process:
 
-http://youtu.be/cBDaxdMmTFM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBDaxdMmTFM?si=BjbzQ3FecE-HuygO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Let's walk through this interaction.
 
 ## Step 1: Drag pack to center of the circle, with explosions
 
-![A sealed Hearthstone booster pack, ready to be opened](images/IMG_0021-1024x768.jpg) Unopened booster packs are on the left side of the screen, and there's a large glowing rectangle in a big circle. The icon on the pack matches the icon in the rectangle, plus the giant blue glow leaves no doubt as to what's supposed to happen here. The screenshot shown here is from the iPad version, where I'm mid-drag.
+![A sealed Hearthstone booster pack, ready to be opened](images/IMG_0021.jpg)
+
+Unopened booster packs are on the left side of the screen, and there's a large glowing rectangle in a big circle. The icon on the pack matches the icon in the rectangle, plus the giant blue glow leaves no doubt as to what's supposed to happen here. The screenshot shown here is from the iPad version, where I'm mid-drag.
 
 Dropping the card on the center then **explodes** the pack, revealing the cards inside in a face-down circle.
 
 ## Step 2: Hover over cards
 
-\[caption id="attachment\_1026" align="alignnone" width="584"\][![Five face-down Hearthstone cards, with a rare being hovered over](images/Pack_SS_6-1024x819.jpg)](http://thatgamesux.com/wp-content/uploads/2014/08/Pack_SS_6.jpg) source: http://hearthstone.gamepedia.com/Card\_pack\[/caption\]
+![Five face-down Hearthstone cards, with a rare being hovered over](images/Pack_SS_6.jpg)
+> source: ![http://hearthstone.gamepedia.com/Card_pack](http://hearthstone.gamepedia.com/Card_pack)
 
 From here, hovering over the back of each card (or a tap-and-hold on the iPad) causes the card to glow according to the rarity. So the player gets a little hint of how lucky this pack actually is before they choose to view the cards. Everybody seems to have their own ritual - some just pause on each card before flipping, others investigate each card and then flip in order of rarity, and others don't worry about it and just immediately flip.
 
 ## Step 3: Click on each card, with explosions
 
-[![IMG_0015](images/IMG_0015-1024x768.jpg)](http://thatgamesux.com/wp-content/uploads/2014/08/IMG_0015.jpg) Then of course, the moment of truth - clicking on the card to flip it over. And as if you weren't excited enough, as rarity increases, so does the quality of the explosion that flips the card over. I mean, it makes sense - those legendary cards are sure heavy.
+![IMG_0015](images/IMG_0015.jpg)
+
+Then of course, the moment of truth - clicking on the card to flip it over. And as if you weren't excited enough, as rarity increases, so does the quality of the explosion that flips the card over. I mean, it makes sense - those legendary cards are sure heavy.
 
 ## Conclusion
 
