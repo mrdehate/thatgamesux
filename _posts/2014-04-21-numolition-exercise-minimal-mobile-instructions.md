@@ -70,6 +70,8 @@ Martin shared some interesting insight into their development process here:
 > We then made the weird but still okay-ish choice to make stars be two things at once: rewards, and currency.
 > 
 > As a currency, you were able to spend them in the game, and it would give you an opportunity to choose whether you'd go to sandbox or the first tower. Or use it to skip a level. Or earn them through connecting to facebook, etc. It gives us the freedom to do more things with it eventually, such as add new "campaigns" of levels (each with different new mechanics) that you will be able to purchase with in-game earned stars. As we're not doing this for financial gain, we don't gave in app purchases, but getting stars like this finally felt the better choice for us.
+>
+> -- Martin Kool, Q42
 
 ## Conclusion
 
