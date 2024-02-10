@@ -1,8 +1,9 @@
 name: that games ux
 remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-seo-tag  
 include:
   - _posts/*
   - _posts/**/*
