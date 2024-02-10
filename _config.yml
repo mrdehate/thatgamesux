@@ -11,6 +11,9 @@ description: Because gamers are users too
 permalink: /:title
 site.author.name: "Mark DeHate"
 logo: images/tgux-logo.svg
+header_pages:
+  - the-archive.md
+  - that-test-page.md
 minima:
   # Minima skin selection.
   # Available skins are:
