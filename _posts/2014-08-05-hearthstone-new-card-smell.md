@@ -41,7 +41,7 @@ Dropping the card on the center then **explodes** the pack, revealing the cards 
 ## Step 2: Hover over cards
 
 ![Five face-down Hearthstone cards, with a rare being hovered over](images/Pack_SS_6.jpg)
-> source: ![http://hearthstone.gamepedia.com/Card_pack](http://hearthstone.gamepedia.com/Card_pack)
+> source: [http://hearthstone.gamepedia.com/Card_pack](http://hearthstone.gamepedia.com/Card_pack)
 
 From here, hovering over the back of each card (or a tap-and-hold on the iPad) causes the card to glow according to the rarity. So the player gets a little hint of how lucky this pack actually is before they choose to view the cards. Everybody seems to have their own ritual - some just pause on each card before flipping, others investigate each card and then flip in order of rarity, and others don't worry about it and just immediately flip.
 
