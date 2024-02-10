@@ -66,7 +66,7 @@ Once everything is installed, don't linger on that main menu for too long. Beca
 
 Regardless, I have no idea why the demo mode exists in the first place, and it only causes me sadness. Although, I will give the game a small thumbs because while in the demo, you can press Option to take over one of the teams. I don't know why you'd do this. But it's something.
 
-## A Ridiculous Error Message
+## My Naming Operation
 
 The player creation process in the Road to the Show mode is quite in-depth. Here I was just starting out, putting in my player's first name. I accidentally pressed the wrong button though while the field was blank, and got this classic error message:
 
