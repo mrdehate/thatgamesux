@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-Please note: Active development on this project has been wound down, but is archived here for posterity. 
+Please note: This blog ran primarily from 2012 - 2014, with a few oddball posts after that. Active development on this project has been wound down, but is archived here for posterity. 
 
 That Game’s UX is a blog that celebrates user experience in gaming. It’s about taking a look at gaming from a user-centered design point of view. Where the user interface in a game succeeds, and where it might need some improvement. After all, gamers are users too…
 
