@@ -1,12 +1,10 @@
 name: that games ux
-remote_theme: pages-themes/minimal@v0.2.0
-plugins: 
-  - jekyll-remote-theme
+theme: minima
 include:
   - _posts/*
   - _posts/**/*
 title: That Game's UX
 description: Because gamers are users too
 permalink: /:title
-author: "Mark DeHate"
+site.author.name: "Mark DeHate"
 logo: images/tgux-logo.svg
