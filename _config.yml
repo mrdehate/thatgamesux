@@ -14,7 +14,7 @@ site.author.name: "Mark DeHate"
 logo: images/tgux-logo.svg
 header_pages:
   - the-archive.md
-  - that-test-page.md
+  - about.md
 minima:
   # Minima skin selection.
   # Available skins are:
