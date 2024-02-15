@@ -11,3 +11,8 @@ Comments were lost from the old wordpress site. In the early days there were som
 
 ## Theme
 This site uses the GH Pages Minima theme, lightly tweaked for a few things like a default author, and custom text/image/styles in the header.
+
+## Wish List
+* Previous/next buttons between posts? That seems doable right?
+* Make the top header bar bigger so the logo looks less dumb
+* Nicer exerpts, or something on the home page that's not just a list of some posts
