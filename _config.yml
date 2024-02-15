@@ -16,6 +16,7 @@ header_pages:
   - the-archive.md
   - about.md
 show_excerpts: true
+paginate: 7
 minima:
   # Minima skin selection.
   # Available skins are:
