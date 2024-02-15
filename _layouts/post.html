@@ -17,6 +17,7 @@ layout: base
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
+      &nbsp;|&nbsp;
       {%- if page.author -%}
           {% assign authors = page.author | split: ',' %}
           {% for author in authors %}
