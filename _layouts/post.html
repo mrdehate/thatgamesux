@@ -18,11 +18,17 @@ layout: base
         </time>
       {%- endif -%}
       {%- if page.author -%}
-        • {% for author in page.author %}
+          {% assign authors = page.author | split: ',' %}
+          {% for author in authors %}
+              <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                  <span class="p-author h-card" itemprop="name">{{ author }}</span>
+              </span>
+              {% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+      {%- else -%}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
+              <span class="p-author h-card" itemprop="name">{{ site.author.name }}</span>
+          </span>
       {%- endif -%}</p>
   </header>
 
