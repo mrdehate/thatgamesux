@@ -15,6 +15,7 @@ logo: images/tgux-logo.svg
 header_pages:
   - the-archive.md
   - about.md
+show_excerpts: true
 minima:
   # Minima skin selection.
   # Available skins are:
