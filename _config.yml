@@ -1,5 +1,6 @@
 name: that games ux
-author: "Mark DeHate"
+author: 
+  name: Mark DeHate
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
@@ -17,6 +18,7 @@ header_pages:
   - about.md
 show_excerpts: false
 paginate: 7
+google_analytics: G-WCFZFBHXVV
 minima:
   # Minima skin selection.
   # Available skins are:
